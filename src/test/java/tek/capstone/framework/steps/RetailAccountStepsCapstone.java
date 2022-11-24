@@ -246,24 +246,24 @@ public class RetailAccountStepsCapstone extends CommonUtility{
 	
 	selectByVisibleText(factoryCapstone.accountPageCapstone().addCountry,Address1.get(0).get("country"));
 	
-	DeletText(factoryCapstone.accountPageCapstone().NameLastNameAdredd);
+	clearText(factoryCapstone.accountPageCapstone().NameLastNameAdredd);
 	sendText(factoryCapstone.accountPageCapstone().NameLastNameAdredd,Address1.get(0).get("fullName"));
 	
-	DeletText(factoryCapstone.accountPageCapstone().phoneNumberAddress);
+	clearText(factoryCapstone.accountPageCapstone().phoneNumberAddress);
 	sendText(factoryCapstone.accountPageCapstone().phoneNumberAddress,Address1.get(0).get("phoneNumber"));
 	
-	DeletText(factoryCapstone.accountPageCapstone().AddressStreet);
+	clearText(factoryCapstone.accountPageCapstone().AddressStreet);
 	sendText(factoryCapstone.accountPageCapstone().AddressStreet,Address1.get(0).get("streetAddress"));
 	
-	DeletText(factoryCapstone.accountPageCapstone().AddressAppartment);
+	clearText(factoryCapstone.accountPageCapstone().AddressAppartment);
 	sendText(factoryCapstone.accountPageCapstone().AddressAppartment,Address1.get(0).get("apt"));
 	
-	DeletText(factoryCapstone.accountPageCapstone().AddCityAddress);
+	clearText(factoryCapstone.accountPageCapstone().AddCityAddress);
 	sendText(factoryCapstone.accountPageCapstone().AddCityAddress,Address1.get(0).get("city"));
 	
 	selectByVisibleText(factoryCapstone.accountPageCapstone().state,Address1.get(0).get("state"));
 	
-	DeletText(factoryCapstone.accountPageCapstone().ZipCodeAddress);
+	clearText(factoryCapstone.accountPageCapstone().ZipCodeAddress);
 	sendText(factoryCapstone.accountPageCapstone().ZipCodeAddress,Address1.get(0).get("zipCode"));
 	
 	click(factoryCapstone.accountPageCapstone().AddressSubmit);

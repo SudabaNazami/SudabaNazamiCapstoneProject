@@ -8,7 +8,7 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		tags = "@placeSecoundOrder",
+		tags = "@EditAddress",
 		features = ("src/test/resources/features.capstone"),
 		glue ="tek.capstone.framework",
 		dryRun = false,
