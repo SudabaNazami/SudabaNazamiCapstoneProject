@@ -4,6 +4,7 @@ import java.time.Duration;
 import java.util.NoSuchElementException;
 import java.util.Set;
 
+import org.apache.xmlbeans.impl.soap.Text;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
@@ -18,6 +19,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
 
 import tek.capstone.framework.base.BaseSetup;
 
@@ -46,7 +48,8 @@ public class CommonUtility extends BaseSetup {
 	public void click(WebElement element) {
 		this.waitTillClickable(element).click();
 	}
-
+	
+	
 	public void click(By by) {
 		this.waitTillClickable(by).click();
 	}
@@ -58,6 +61,12 @@ public class CommonUtility extends BaseSetup {
 	
 	public void clearText(WebElement element) {
 		this.waitTillPresence(element).clear();
+		
+	}	
+     public void DeletText(WebElement element) {
+    	 
+    	 this.waitTillPresence(element).clear();
+     
 		
 	}
 

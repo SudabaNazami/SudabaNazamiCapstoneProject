@@ -41,7 +41,7 @@ Feature: Retail Account Page
     And user click on Update Edit Your Card button
     Then message should be display 'Payment Method updated Successfully'
 
-  #not
+  
   @Removepayment
   Scenario: Verify User can remove Debit or Credit card
     And user click on last payment
@@ -64,8 +64,7 @@ Feature: Retail Account Page
     And User edit new address with below information
       | country | fullName  | phoneNumber  | streetAddress  | apt | city     | state | zipCode |
       | Turkey  | Tom jerry | 916 888 9999 | 980 Street Ave | 345 | SanRamon | Adana |   56432 |
-    And User click update Your Address button
-    Then a message should be displayed 'Address Updated Successfully'
+    And a massage shoild be showen 'Address Updated Successfully'
 
   @RemoveAddress
   Scenario: Verify User can remove Address from Account

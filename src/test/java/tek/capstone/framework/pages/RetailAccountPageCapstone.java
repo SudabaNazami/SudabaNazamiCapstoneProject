@@ -143,10 +143,17 @@ public class RetailAccountPageCapstone extends BaseSetup{
 	
 	//Edit Address
 	
+	
+	
+	
+	
+	
+	
     @FindBy(xpath = "//button[text()='Edit']")
     public WebElement EditAddress;
 		
- 
+    @FindBy(xpath="//button[text()='Update Your Address']")
+	public WebElement updateAddressButton;
     
     @FindBy(xpath= "//div[text()='Address Updated Successfully']")
     public WebElement MassageEditAddress;
