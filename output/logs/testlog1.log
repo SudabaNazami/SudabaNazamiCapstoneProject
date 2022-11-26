@@ -3626,3 +3626,19 @@
 2022-11-24 00:16:42,683 [main] INFO logger_file - user click on account option
 2022-11-24 00:16:43,044 [main] INFO logger_file - Edit Address
 2022-11-24 00:16:44,941 [main] INFO logger_file - address information
+2022-11-24 01:40:35,778 [main] INFO logger_file - React App is equal to React App
+2022-11-24 01:40:36,105 [main] INFO logger_file - user clicked on Sign In option
+2022-11-24 01:40:36,253 [main] INFO logger_file - user clicked on Create New Account button
+2022-11-24 01:40:37,112 [main] INFO logger_file - user entered required information into sign up form
+2022-11-24 01:40:37,260 [main] INFO logger_file - user clicked on Sign up Button
+2022-11-24 01:41:17,168 [main] INFO logger_file - React App is equal to React App
+2022-11-24 01:41:17,446 [main] INFO logger_file - user clicked on Sign In option
+2022-11-24 01:41:17,958 [main] INFO logger_file - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-11-24 01:41:18,097 [main] INFO logger_file - user clicked on login button
+2022-11-24 01:41:18,491 [main] INFO logger_file - user logged in into account
+2022-11-24 01:41:18,695 [main] INFO logger_file - click on order
+2022-11-24 01:41:19,146 [main] INFO logger_file - click on return 
+2022-11-24 01:41:19,314 [main] INFO logger_file -  Choose return resone
+2022-11-24 01:41:19,452 [main] INFO logger_file - choose drop of location
+2022-11-24 01:41:19,583 [main] INFO logger_file - item returned
+2022-11-24 01:41:19,894 [main] INFO logger_file - the message was displayed
