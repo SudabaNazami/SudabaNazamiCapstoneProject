@@ -167,6 +167,7 @@ public class HomeStepsCapstone extends CommonUtility{
 	public void userSearchForAnItem(String Text) {
 	sendText(factoryCapstone.HomePageCapstone().searchInput,Text);
 	logger.info("search some thing");
+	
 	}
 	
 	@And ("User click on Search icon")
@@ -179,7 +180,8 @@ public class HomeStepsCapstone extends CommonUtility{
 	@And("User click on item")
 	public void userClickOnItem() {
 	click(factoryCapstone.HomePageCapstone().itemCapstone);
-	logger.info("item add ");	
+	logger.info("item add ");
+	
 	}
 	
 	@And ("User select quantity {string}")
@@ -207,13 +209,16 @@ public class HomeStepsCapstone extends CommonUtility{
 	
 	@And("User click on Cart option")
 	public void userClickOnCartOption() {
-	click(factoryCapstone.HomePageCapstone().CartOption);   
+	click(factoryCapstone.HomePageCapstone().CartOption); 
+	logger.info("place order");
 		
 		
 	}
 	@And("User click on Proceed to Checkout button")
 	public void userClickOnProceedToCheckoutButton() {
-	click(factoryCapstone.HomePageCapstone().ProcedCheckout);    
+	click(factoryCapstone.HomePageCapstone().ProcedCheckout);
+	logger.info("click on proceed");
+	
 	
 		
 	}
@@ -222,22 +227,30 @@ public class HomeStepsCapstone extends CommonUtility{
 	click(factoryCapstone.HomePageCapstone().addNewAddress);
 	logger.info("add Address");
 	
+	
 	}
 	@And("User click on add new payment")
 	public void userClickOnAddNewPayment() {
+	
 	click(factoryCapstone.HomePageCapstone().AddNewPayment);
+	logger.info("click on new payment");
 	}
 	
 	@And("User click on Place Your Order")
 	public void userClickOnPlaceYourOrder() {
-	click(factoryCapstone.HomePageCapstone().palceOrder);    
-		
+	click(factoryCapstone.HomePageCapstone().palceOrder); 
+	logger.info("placeOrder");
 	}
+		
+	
 	@Then("there is a massage {string}")
 	public void thereIsAMassage(String Massage) {
-	Assert.assertTrue(isElementDisplayed(factoryCapstone.HomePageCapstone().NewMassage));    
-	}
+		
+	Assert.assertTrue(isElementDisplayed(factoryCapstone.HomePageCapstone().NewMassage));
+	
+	 logger.info ("recived massage");
 
+	}
 
 	
 	//Place order2
@@ -248,7 +261,6 @@ public class HomeStepsCapstone extends CommonUtility{
 	click(factoryCapstone.HomePageCapstone().ApexCoins);
 	logger.info("secound item added");
 	}
-	
 	
 	
 	

@@ -163,7 +163,7 @@ public class RetailAccountPageCapstone extends BaseSetup{
     
 	//Remove Address
     
-    @FindBy(xpath = "//button[text()='remove']")
+    @FindBy(xpath = "//button[text()='Remove']")
     public WebElement RemoveAddressCapstone;
 	
 	

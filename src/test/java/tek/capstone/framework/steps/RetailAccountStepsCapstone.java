@@ -26,15 +26,16 @@ public class RetailAccountStepsCapstone extends CommonUtility{
 	public void userClickOnAccountOption(){
 	click(factoryCapstone.accountPageCapstone().AccountCapstone);	
 	logger.info("user click on account option");
-	
+	slowDown();
 	}
 	
 	@And("User update Name {string} and Phone '{string}’")
 	public void userUpdateNameAndPhone(String name, String phone){
+	clearTextUsingSendKeys(factoryCapstone.accountPageCapstone().nameCapstone);
 	sendText(factoryCapstone.accountPageCapstone().nameCapstone,name);
 	sendText(factoryCapstone.accountPageCapstone().phneNumberCapstone,phone);
 	logger.info("user update name "+name+"and phone"+phone);
-	
+	slowDown();
 	}
 	
 	@And ("User click on Update button")
@@ -141,17 +142,17 @@ public class RetailAccountStepsCapstone extends CommonUtility{
 	public void userEditInformationWithBelowData(DataTable Data ) {
 	List<Map<String,String>> payment = Data.asMaps(String.class,String.class);
 	
-	clearText(factoryCapstone.accountPageCapstone().cardNumberCapstone);
+	clearTextUsingSendKeys(factoryCapstone.accountPageCapstone().cardNumberCapstone);
 	sendText(factoryCapstone.accountPageCapstone().cardNumberCapstone,payment.get(0).get("cardNumber"));
 	
-	clearText(factoryCapstone.accountPageCapstone().CardNameCapstone);
+	clearTextUsingSendKeys(factoryCapstone.accountPageCapstone().CardNameCapstone);
 	sendText(factoryCapstone.accountPageCapstone().CardNameCapstone,payment.get(0).get("nameOnCard"));
 	
 	selectByVisibleText(factoryCapstone.accountPageCapstone().expirationMonthCapstone, payment.get(0).get("expirationMonth"));
 	
 	selectByVisibleText(factoryCapstone.accountPageCapstone().expirationYearCapstone,payment.get(0).get("expirationYear"));
 	
-	clearText(factoryCapstone.accountPageCapstone().securityCode);
+	clearTextUsingSendKeys(factoryCapstone.accountPageCapstone().securityCode);
 	sendText(factoryCapstone.accountPageCapstone().securityCode,payment.get(0).get("securityCode"));
 	
 	logger.info("userDebitOrCreditCardInformation");
@@ -203,6 +204,7 @@ public class RetailAccountStepsCapstone extends CommonUtility{
 	
 	@Then("User fill new address form with below information")
 	public void userFillNewAddressFormWithBelowInformation(DataTable Data) {
+		
 	List<Map<String,String>> Address1 = Data.asMaps(String.class,String.class);
 	selectByVisibleText(factoryCapstone.accountPageCapstone().addCountry,Address1.get(0).get("country"));
 	sendText(factoryCapstone.accountPageCapstone().NameLastNameAdredd,Address1.get(0).get("fullName"));
@@ -236,8 +238,10 @@ public class RetailAccountStepsCapstone extends CommonUtility{
 	
 	@And ("User click on edit address option")
 	public void userClickOnEditAddressOption(){
+		waitTillPresence(factoryCapstone.accountPageCapstone().EditAddress);
 	click(factoryCapstone.accountPageCapstone().EditAddress);
 	logger.info("Edit Address");
+	
 	}
 
 	@And ("User edit new address with below information")
@@ -246,29 +250,29 @@ public class RetailAccountStepsCapstone extends CommonUtility{
 	
 	selectByVisibleText(factoryCapstone.accountPageCapstone().addCountry,Address1.get(0).get("country"));
 	
-	clearText(factoryCapstone.accountPageCapstone().NameLastNameAdredd);
+	clearTextUsingSendKeys(factoryCapstone.accountPageCapstone().NameLastNameAdredd);
 	sendText(factoryCapstone.accountPageCapstone().NameLastNameAdredd,Address1.get(0).get("fullName"));
 	
-	clearText(factoryCapstone.accountPageCapstone().phoneNumberAddress);
+	clearTextUsingSendKeys(factoryCapstone.accountPageCapstone().phoneNumberAddress);
 	sendText(factoryCapstone.accountPageCapstone().phoneNumberAddress,Address1.get(0).get("phoneNumber"));
 	
-	clearText(factoryCapstone.accountPageCapstone().AddressStreet);
+	clearTextUsingSendKeys(factoryCapstone.accountPageCapstone().AddressStreet);
 	sendText(factoryCapstone.accountPageCapstone().AddressStreet,Address1.get(0).get("streetAddress"));
 	
-	clearText(factoryCapstone.accountPageCapstone().AddressAppartment);
+	clearTextUsingSendKeys(factoryCapstone.accountPageCapstone().AddressAppartment);
 	sendText(factoryCapstone.accountPageCapstone().AddressAppartment,Address1.get(0).get("apt"));
 	
-	clearText(factoryCapstone.accountPageCapstone().AddCityAddress);
+	clearTextUsingSendKeys(factoryCapstone.accountPageCapstone().AddCityAddress);
 	sendText(factoryCapstone.accountPageCapstone().AddCityAddress,Address1.get(0).get("city"));
 	
 	selectByVisibleText(factoryCapstone.accountPageCapstone().state,Address1.get(0).get("state"));
 	
-	clearText(factoryCapstone.accountPageCapstone().ZipCodeAddress);
+	clearTextUsingSendKeys(factoryCapstone.accountPageCapstone().ZipCodeAddress);
 	sendText(factoryCapstone.accountPageCapstone().ZipCodeAddress,Address1.get(0).get("zipCode"));
 	
 	click(factoryCapstone.accountPageCapstone().AddressSubmit);
 	logger.info("address information");
-	
+	slowDown();
 	}
 	
 	@And ("User click update Your Address button")
@@ -277,10 +281,11 @@ public class RetailAccountStepsCapstone extends CommonUtility{
 	logger.info("Add a contry");
 	}
 	@Then ("a massage shoild be showen {string}")
-	public void aMassageShouldBeShowen (String str ) {
-	Assert.assertTrue(isElementDisplayed(factoryCapstone.accountPageCapstone().MassageEditAddress));
-	logger.info("Address added ");
-		
+	public void aMassageShouldBeShowen (String str1 ) {
+		String expect = str1;
+        String actual =getElementText(factoryCapstone.accountPageCapstone().MassageEditAddress);
+        Assert.assertEquals(actual, expect);
+        logger.info("the shoud be showing");	
 	}
 	
 	

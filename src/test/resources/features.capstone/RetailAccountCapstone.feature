@@ -3,7 +3,7 @@ Feature: Retail Account Page
   Background: 
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'StudentTEK@gmail.com' and password 'Tekschool@123'
+    And User enter email 'SudabaTekSchool@gmail.com' and password 'Tekschool@123'
     And User click on login button
     And User should be logged in into Account
     When User click on Account option
@@ -27,7 +27,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 9065798989456564 | TEK        |              12 |           2024 |          783 |
+      | 9066329986783204 | TEK        |              11 |           2025 |          703 |
     And User click on Add your card button
     Then message should be showen 'Payment Method added sucessfully'
 

@@ -26,6 +26,7 @@ public void userClickOnOrdersSection() {
 public void userClickOnFirstOrderInList() {
 click(factoryCapstone.orderPageCapstone().Orderbutton);	
 logger.info("click on order");
+slowDown();
 }
 
 @And ("User click on Cancel The Order button")
@@ -61,6 +62,7 @@ logger.info("order canceled successfully");
 public void userClickOnReturnItemsButton() {
 click(factoryCapstone.orderPageCapstone().returnOption);
 logger.info("click on return ");
+slowDown();
 }
 @And ("User select the Return Reason {string}")
 public void userSelectTheReturnReasonItemDamaged(String resone) {
@@ -88,7 +90,7 @@ public void aCancelationMessageShouldBeDisplayedReturnWasSuccessful(String str) 
 	
 	
 	
-//ReviewButtonCapstone	
+//ReviewOrderCapstone	
 	
 	
 @When ("User click on Review button")
@@ -97,10 +99,10 @@ click(factoryCapstone.orderPageCapstone().Review);
 logger.info("add Review");
 }
 	
-@And("User write Review headline 'secound’ and text  'I like this item'")
-public void userWriteReviewHeadlineSecoundAndTextILikeThisItem() {
-getText(factoryCapstone.orderPageCapstone().Headlin);
-getText(factoryCapstone.orderPageCapstone().TextArea);
+@And("User write Review headline {string} and text  {string}")
+public void userWriteReviewHeadlineSecoundAndTextILikeThisItem( String string,String string1) {
+sendText(factoryCapstone.orderPageCapstone().Headlin ,string);
+sendText(factoryCapstone.orderPageCapstone().TextArea,string1);
 logger.info("user review the order");
 }
  
@@ -110,14 +112,15 @@ click(factoryCapstone.orderPageCapstone().AddReview);
 logger.info("click on add review");
 }
 
-@Then("a review message should be displayed ‘Your review was added successfully’")
-public void aReviewMessageShouldBeDisplayedYourReviewWasAddedSuccessfully() {
-Assert.assertTrue(isElementDisplayed(factoryCapstone.orderPageCapstone().Review));
-logger.info("revioew Successfully");
+@Then("a review message should be displayed {string}")
+public void aReviewMessageShouldBeDisplayedYourReviewWasAddedSuccessfully(String string) {
+String expect =string;
+String actual = getElementText(factoryCapstone.orderPageCapstone().AddReview);
+Assert.assertEquals(actual,expect);
+logger.info("review the order");
+	
+	
+	
+	
 }
-	
-	
-	
-	
-	
 }

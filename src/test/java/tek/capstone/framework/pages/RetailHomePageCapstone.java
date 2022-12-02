@@ -133,16 +133,15 @@ public class RetailHomePageCapstone extends BaseSetup {
 	@FindBy(xpath="//button[@id='addAddressBtn']")
 	public WebElement addNewAddress;
 	
-	@FindBy(xpath="//button[@id='addPaymentBtn']")
+	@FindBy(id="addPaymentBtn")
 	public WebElement AddNewPayment;
 	
 	
-	@FindBy(xpath="//button[@id='placeOrderBtn']")
+	@FindBy(xpath="//button[text()='Place Your Order']")
 	public WebElement palceOrder;
 	
-	@FindBy(xpath="/html/body/div/div[1]/div[1]/div[3]/div/div/div[1]/p")
+	@FindBy(xpath="//div[text()='Order Placed, Thanks'")
 	public WebElement NewMassage;
-	
 	
 	
 	//Place Order 2

@@ -3,7 +3,7 @@ Feature: Retail Order Page
   Background: 
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'StudentTEK@gmail.com' and password 'Tekschool@123'
+    And User enter email 'SudabaTekSchool@gmail.com' and password 'Tekschool@123'
     And User click on login button
     And User should be logged in into Account
     And User click on Orders section
@@ -26,9 +26,9 @@ Feature: Retail Order Page
     And User click on Return Order button
     Then a cancelation message should be displayed 'Return was successfull'
 
-  @ReviewOrderCapstone
+  @ReviewOrder
   Scenario: Verify User can write a review on order placed
     And User click on Review button
-    And User write Review headline 'secound’ and text  'I like this item'
+    And User write Review headline 'secound' and text  'I like this item'
     And User click Add your Review button
-    Then a review message should be displayed ‘Your review was added successfully’
+    Then a review message should be displayed 'Add Your Review'

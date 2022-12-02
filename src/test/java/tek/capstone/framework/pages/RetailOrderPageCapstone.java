@@ -53,25 +53,9 @@ public WebElement returnButton;
 @FindBy(xpath="//p[text()='Return was successfull']")
 public WebElement retutnOrderMessage;
 
-//@FindBy(xpath ="//button[text()='Return Items']")
-//public WebElement Return;
-//	
-//	
-//@FindBy(xpath = "")
-//public WebElement ReturnResone;
-//
-//	
-//@FindBy(xpath = "")
-//public WebElement DropOfReturn;
-//	
-//	
-//@FindBy(xpath ="//button[@id='orderSubmitBtn']")
-//public WebElement ReturnBtn;
-//	
-//@FindBy(xpath="//p[text()='Return was successfull']")
-//public WebElement massagereturnSucces;
-//
-//ReviewButtonCapstone
+
+
+//Review order
 
 @FindBy(id="reviewBtn")
 public WebElement Review;

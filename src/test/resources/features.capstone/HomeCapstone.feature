@@ -9,7 +9,6 @@ Feature: Retail Home Page
     Then below options are present in Shop by Department sidebar
       | Electronics | Computers | Smart Home | Sports | Automative |
 
-  
   @ShopBy2
   Scenario Outline: Verify department sidebar options
     When User click on All section
@@ -28,7 +27,7 @@ Feature: Retail Home Page
   @AddtoCart
   Scenario: Verify User can add an item to cart
     When User click on Sign in option
-    And User enter email 'StudentTEK@gmail.com' and password 'Tekschool@123'
+    And User enter email 'SudabaTekSchool@gmail.com' and password 'Tekschool@123'
     And User click on login button
     And User should be logged in into Account
     And User change the category to 'Smart Home'
@@ -39,12 +38,11 @@ Feature: Retail Home Page
     And User click add to Cart button
     Then the cart icon quantity should change to '2'
 
-  
   @placeOrder
-  Scenario: Verify User can place an order without Shipping address and payment Method on file
+  Scenario: Verify User can place an order add Shipping address and payment Method on file
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'StudentTEK@gmail.com' and password 'Tekschool@123'
+    And User enter email 'SudabaTekSchool@gmail.com' and password 'Tekschool@123'
     And User click on login button
     And User should be logged in into Account
     And User change the category to 'Smart Home'
@@ -64,7 +62,7 @@ Feature: Retail Home Page
     And User click on add new payment
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 7654230519942678 | Mom Dad    |              12 |           2026 |          890 |
+      | 6553409692019178 | Mom        |              11 |           2026 |          560 |
     And User click on Add your card button
     And User click on Place Your Order
     Then there is a massage 'Order Placed, Thanks'
@@ -73,7 +71,7 @@ Feature: Retail Home Page
   Scenario: Verify User can place an order with Shipping address and payment Method on file
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'StudentTEK@gmail.com' and password 'Tekschool@123'
+    And User enter email 'SudabaTekSchool@gmail.com' and password 'Tekschool@123'
     And User click on login button
     And User should be logged in into Account
     And User change the category to 'Electronics'

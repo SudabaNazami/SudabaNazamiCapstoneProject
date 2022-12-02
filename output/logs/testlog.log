@@ -3642,3 +3642,2215 @@
 2022-11-24 01:41:19,452 - logger_file -INFO - choose drop of location
 2022-11-24 01:41:19,583 - logger_file -INFO - item returned
 2022-11-24 01:41:19,894 - logger_file -INFO - the message was displayed
+2022-11-30 00:35:27,803 - logger_file -INFO - React App is equal to React App
+2022-11-30 00:35:27,929 - logger_file -INFO - click on all section
+2022-11-30 00:35:32,989 - logger_file -INFO - options Electronics, Computers, Smart Home, Sports and Automative are present
+2022-11-30 00:38:19,316 - logger_file -INFO - React App is equal to React App
+2022-11-30 00:38:19,455 - logger_file -INFO - user clicked on Sign In option
+2022-11-30 00:38:19,687 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-11-30 00:38:19,762 - logger_file -INFO - user clicked on login button
+2022-11-30 00:38:20,140 - logger_file -INFO - user logged in into account
+2022-11-30 00:38:20,244 - logger_file -INFO - select smart home
+2022-11-30 00:38:20,373 - logger_file -INFO - search some thing
+2022-11-30 00:38:20,453 - logger_file -INFO - click on search
+2022-11-30 00:38:20,731 - logger_file -INFO - item add 
+2022-11-30 00:38:21,029 - logger_file -INFO - item count added
+2022-11-30 00:38:21,127 - logger_file -INFO - item added to cart
+2022-11-30 00:38:21,477 - logger_file -INFO - item added to cart successfully
+2022-11-30 00:38:52,581 - logger_file -INFO - React App is equal to React App
+2022-11-30 00:38:52,710 - logger_file -INFO - user clicked on Sign In option
+2022-11-30 00:38:52,937 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-11-30 00:38:53,028 - logger_file -INFO - user clicked on login button
+2022-11-30 00:38:53,408 - logger_file -INFO - user logged in into account
+2022-11-30 00:38:53,548 - logger_file -INFO - select smart home
+2022-11-30 00:38:53,735 - logger_file -INFO - search some thing
+2022-11-30 00:38:53,829 - logger_file -INFO - click on search
+2022-11-30 00:38:54,119 - logger_file -INFO - item add 
+2022-11-30 00:38:54,456 - logger_file -INFO - item count added
+2022-11-30 00:38:54,575 - logger_file -INFO - item added to cart
+2022-11-30 00:38:54,645 - logger_file -INFO - item added to cart successfully
+2022-11-30 00:39:22,760 - logger_file -INFO - React App is equal to React App
+2022-11-30 00:39:22,772 - logger_file -INFO - React App is equal to React App
+2022-11-30 00:39:22,898 - logger_file -INFO - user clicked on Sign In option
+2022-11-30 00:39:23,137 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-11-30 00:39:23,225 - logger_file -INFO - user clicked on login button
+2022-11-30 00:39:23,630 - logger_file -INFO - user logged in into account
+2022-11-30 00:39:23,716 - logger_file -INFO - select smart home
+2022-11-30 00:39:23,843 - logger_file -INFO - search some thing
+2022-11-30 00:39:23,917 - logger_file -INFO - click on search
+2022-11-30 00:39:24,273 - logger_file -INFO - item add 
+2022-11-30 00:39:24,564 - logger_file -INFO - item count added
+2022-11-30 00:39:24,654 - logger_file -INFO - item added to cart
+2022-11-30 00:39:24,691 - logger_file -INFO - item added to cart successfully
+2022-11-30 00:39:25,210 - logger_file -INFO - add Address
+2022-11-30 00:39:26,436 - logger_file -INFO - address information
+2022-11-30 00:39:26,630 - logger_file -INFO - Add a contry
+2022-11-30 00:40:39,530 - logger_file -INFO - React App is equal to React App
+2022-11-30 00:40:39,680 - logger_file -INFO - user clicked on Sign In option
+2022-11-30 00:40:39,910 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-11-30 00:40:39,992 - logger_file -INFO - user clicked on login button
+2022-11-30 00:40:40,386 - logger_file -INFO - user logged in into account
+2022-11-30 00:40:40,511 - logger_file -INFO - user click on account option
+2022-11-30 00:40:40,619 - logger_file -INFO - Add an Address
+2022-11-30 00:40:41,425 - logger_file -INFO - address information
+2022-11-30 00:40:41,553 - logger_file -INFO - Add a contry
+2022-11-30 00:40:42,393 - logger_file -INFO - the message was displayed
+2022-11-30 00:41:28,099 - logger_file -INFO - React App is equal to React App
+2022-11-30 00:41:28,233 - logger_file -INFO - user clicked on Sign In option
+2022-11-30 00:41:28,458 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-11-30 00:41:28,541 - logger_file -INFO - user clicked on login button
+2022-11-30 00:41:28,920 - logger_file -INFO - user logged in into account
+2022-11-30 00:41:29,022 - logger_file -INFO - click on order
+2022-11-30 00:41:29,453 - logger_file -INFO - click on return 
+2022-11-30 00:41:29,541 - logger_file -INFO -  Choose return resone
+2022-11-30 00:41:29,649 - logger_file -INFO - choose drop of location
+2022-11-30 00:41:29,777 - logger_file -INFO - item returned
+2022-12-01 16:44:06,675 - logger_file -INFO - React App is equal to React App
+2022-12-01 16:44:06,781 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 16:44:06,974 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 16:44:07,038 - logger_file -INFO - user clicked on login button
+2022-12-01 16:44:07,390 - logger_file -INFO - user logged in into account
+2022-12-01 16:44:07,478 - logger_file -INFO - user click on account option
+2022-12-01 16:44:07,652 - logger_file -INFO - user update name Sudabaand phone916 777 444
+2022-12-01 16:44:07,721 - logger_file -INFO - user click on update button
+2022-12-01 16:44:07,743 - logger_file -INFO - user profile information is update
+2022-12-01 16:44:23,291 - logger_file -INFO - React App is equal to React App
+2022-12-01 16:44:23,387 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 16:44:23,564 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 16:44:23,622 - logger_file -INFO - user clicked on login button
+2022-12-01 16:44:23,975 - logger_file -INFO - user logged in into account
+2022-12-01 16:44:24,059 - logger_file -INFO - user click on account option
+2022-12-01 16:44:24,246 - logger_file -INFO - user update name Sudabaand phone916 777 444
+2022-12-01 16:44:24,313 - logger_file -INFO - user click on update button
+2022-12-01 16:44:24,329 - logger_file -INFO - user profile information is update
+2022-12-01 16:52:21,385 - logger_file -INFO - React App is equal to React App
+2022-12-01 16:52:21,484 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 16:52:21,666 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 16:52:21,724 - logger_file -INFO - user clicked on login button
+2022-12-01 16:52:22,058 - logger_file -INFO - user logged in into account
+2022-12-01 16:52:22,147 - logger_file -INFO - user click on account option
+2022-12-01 16:52:22,315 - logger_file -INFO - user update name Sudabaand phone916 777 444
+2022-12-01 16:52:22,383 - logger_file -INFO - user click on update button
+2022-12-01 16:52:22,398 - logger_file -INFO - user profile information is update
+2022-12-01 17:07:38,930 - logger_file -INFO - React App is equal to React App
+2022-12-01 17:07:39,031 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 17:07:39,208 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 17:07:39,265 - logger_file -INFO - user clicked on login button
+2022-12-01 17:07:39,657 - logger_file -INFO - user logged in into account
+2022-12-01 17:07:39,740 - logger_file -INFO - user click on account option
+2022-12-01 17:07:40,530 - logger_file -INFO - user click on add payment
+2022-12-01 17:07:40,972 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-01 17:07:41,022 - logger_file -INFO - user submit the cart information
+2022-12-01 17:07:41,843 - logger_file -INFO - Message was displayed successfully
+2022-12-01 17:09:15,461 - logger_file -INFO - React App is equal to React App
+2022-12-01 17:09:15,558 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 17:09:15,734 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 17:09:15,792 - logger_file -INFO - user clicked on login button
+2022-12-01 17:09:16,130 - logger_file -INFO - user logged in into account
+2022-12-01 17:09:16,213 - logger_file -INFO - user click on account option
+2022-12-01 17:09:16,654 - logger_file -INFO - Edit Address
+2022-12-01 17:18:41,754 - logger_file -INFO - React App is equal to React App
+2022-12-01 17:18:41,861 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 17:18:42,043 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 17:18:42,102 - logger_file -INFO - user clicked on login button
+2022-12-01 17:18:42,613 - logger_file -INFO - user logged in into account
+2022-12-01 17:18:42,695 - logger_file -INFO - user click on account option
+2022-12-01 17:18:43,032 - logger_file -INFO - Edit Address
+2022-12-01 17:18:43,943 - logger_file -INFO - address information
+2022-12-01 17:23:21,047 - logger_file -INFO - React App is equal to React App
+2022-12-01 17:23:21,151 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 17:23:21,322 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 17:23:21,382 - logger_file -INFO - user clicked on login button
+2022-12-01 17:23:21,780 - logger_file -INFO - user logged in into account
+2022-12-01 17:23:21,866 - logger_file -INFO - user click on account option
+2022-12-01 17:23:22,261 - logger_file -INFO - Edit Address
+2022-12-01 17:23:23,173 - logger_file -INFO - address information
+2022-12-01 17:25:39,797 - logger_file -INFO - React App is equal to React App
+2022-12-01 17:25:39,904 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 17:25:40,084 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 17:25:40,142 - logger_file -INFO - user clicked on login button
+2022-12-01 17:25:40,486 - logger_file -INFO - user logged in into account
+2022-12-01 17:25:40,598 - logger_file -INFO - user click on account option
+2022-12-01 17:25:40,989 - logger_file -INFO - Edit Address
+2022-12-01 17:25:46,931 - logger_file -INFO - address information
+2022-12-01 18:16:21,084 - logger_file -INFO - React App is equal to React App
+2022-12-01 18:16:21,183 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 18:16:21,367 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 18:16:21,426 - logger_file -INFO - user clicked on login button
+2022-12-01 18:16:21,780 - logger_file -INFO - user logged in into account
+2022-12-01 18:16:21,864 - logger_file -INFO - user click on account option
+2022-12-01 18:16:50,566 - logger_file -INFO - React App is equal to React App
+2022-12-01 18:16:50,661 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 18:16:50,832 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 18:16:50,890 - logger_file -INFO - user clicked on login button
+2022-12-01 18:16:51,228 - logger_file -INFO - user logged in into account
+2022-12-01 18:16:51,312 - logger_file -INFO - user click on account option
+2022-12-01 18:16:51,708 - logger_file -INFO - Edit Address
+2022-12-01 18:16:52,563 - logger_file -INFO - address information
+2022-12-01 18:18:18,218 - logger_file -INFO - React App is equal to React App
+2022-12-01 18:18:18,320 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 18:18:18,498 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 18:18:18,559 - logger_file -INFO - user clicked on login button
+2022-12-01 18:18:18,910 - logger_file -INFO - user logged in into account
+2022-12-01 18:18:19,004 - logger_file -INFO - user click on account option
+2022-12-01 18:18:19,345 - logger_file -INFO - Edit Address
+2022-12-01 18:18:20,159 - logger_file -INFO - address information
+2022-12-01 18:18:25,209 - logger_file -INFO - the shoud be showing
+2022-12-01 18:29:14,926 - logger_file -INFO - React App is equal to React App
+2022-12-01 18:29:15,029 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 18:29:15,202 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 18:29:15,262 - logger_file -INFO - user clicked on login button
+2022-12-01 18:29:15,643 - logger_file -INFO - user logged in into account
+2022-12-01 18:29:15,727 - logger_file -INFO - user click on account option
+2022-12-01 18:29:16,009 - logger_file -INFO - Edit Address
+2022-12-01 18:29:16,846 - logger_file -INFO - address information
+2022-12-01 18:29:21,896 - logger_file -INFO - the shoud be showing
+2022-12-01 21:09:10,184 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:09:10,288 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 21:09:10,462 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 21:09:10,519 - logger_file -INFO - user clicked on login button
+2022-12-01 21:09:10,915 - logger_file -INFO - user logged in into account
+2022-12-01 21:09:10,999 - logger_file -INFO - user click on account option
+2022-12-01 21:09:11,170 - logger_file -INFO - user update name Sudabaand phone916 777 444
+2022-12-01 21:09:11,247 - logger_file -INFO - user click on update button
+2022-12-01 21:09:11,263 - logger_file -INFO - user profile information is update
+2022-12-01 21:11:23,171 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:11:23,273 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 21:11:23,445 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 21:11:23,513 - logger_file -INFO - user clicked on login button
+2022-12-01 21:11:23,862 - logger_file -INFO - user logged in into account
+2022-12-01 21:11:23,953 - logger_file -INFO - user click on account option
+2022-12-01 21:11:29,137 - logger_file -INFO - user update name Sudabaand phone916 777 444
+2022-12-01 21:11:34,224 - logger_file -INFO - user click on update button
+2022-12-01 21:11:34,241 - logger_file -INFO - user profile information is update
+2022-12-01 21:13:27,541 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:13:27,635 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 21:13:27,809 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 21:13:27,864 - logger_file -INFO - user clicked on login button
+2022-12-01 21:13:28,201 - logger_file -INFO - user logged in into account
+2022-12-01 21:13:28,281 - logger_file -INFO - user click on account option
+2022-12-01 21:13:33,528 - logger_file -INFO - user update name Sudabaand phone916 777 444
+2022-12-01 21:13:38,612 - logger_file -INFO - user click on update button
+2022-12-01 21:13:38,627 - logger_file -INFO - user profile information is update
+2022-12-01 21:15:11,523 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:15:11,619 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 21:15:11,788 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 21:15:11,845 - logger_file -INFO - user clicked on login button
+2022-12-01 21:15:12,356 - logger_file -INFO - user logged in into account
+2022-12-01 21:15:12,436 - logger_file -INFO - user click on account option
+2022-12-01 21:15:17,707 - logger_file -INFO - user entered the informaion
+2022-12-01 21:15:22,775 - logger_file -INFO - user click on change password button
+2022-12-01 21:15:22,792 - logger_file -INFO - a masssage should be displayed 
+2022-12-01 21:18:40,538 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:18:40,639 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 21:18:40,810 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 21:18:40,869 - logger_file -INFO - user clicked on login button
+2022-12-01 21:18:41,213 - logger_file -INFO - user logged in into account
+2022-12-01 21:18:41,294 - logger_file -INFO - user click on account option
+2022-12-01 21:18:46,370 - logger_file -INFO - user click on add payment
+2022-12-01 21:18:51,718 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-01 21:18:51,780 - logger_file -INFO - user submit the cart information
+2022-12-01 21:18:52,601 - logger_file -INFO - Payment Method added sucessfully
+2022-12-01 21:19:56,309 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:19:56,403 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 21:19:56,576 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 21:19:56,634 - logger_file -INFO - user clicked on login button
+2022-12-01 21:19:56,992 - logger_file -INFO - user logged in into account
+2022-12-01 21:19:57,073 - logger_file -INFO - user click on account option
+2022-12-01 21:20:02,209 - logger_file -INFO - user click on add payment
+2022-12-01 21:20:07,682 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-01 21:20:07,743 - logger_file -INFO - user submit the cart information
+2022-12-01 21:20:08,554 - logger_file -INFO - Message was displayed successfully
+2022-12-01 21:21:14,606 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:21:14,703 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 21:21:14,875 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 21:21:14,932 - logger_file -INFO - user clicked on login button
+2022-12-01 21:21:15,320 - logger_file -INFO - user logged in into account
+2022-12-01 21:21:15,418 - logger_file -INFO - user click on account option
+2022-12-01 21:21:20,598 - logger_file -INFO - user removed the payment
+2022-12-01 21:24:12,531 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:24:12,623 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 21:24:12,800 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 21:24:12,855 - logger_file -INFO - user clicked on login button
+2022-12-01 21:24:13,208 - logger_file -INFO - user logged in into account
+2022-12-01 21:24:13,292 - logger_file -INFO - user click on account option
+2022-12-01 21:24:18,397 - logger_file -INFO - Add an Address
+2022-12-01 21:24:18,993 - logger_file -INFO - address information
+2022-12-01 21:24:19,065 - logger_file -INFO - Add a contry
+2022-12-01 21:24:19,896 - logger_file -INFO - the message was displayed
+2022-12-01 21:25:01,034 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:25:01,135 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 21:25:01,307 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 21:25:01,362 - logger_file -INFO - user clicked on login button
+2022-12-01 21:25:01,880 - logger_file -INFO - user logged in into account
+2022-12-01 21:25:01,962 - logger_file -INFO - user click on account option
+2022-12-01 21:25:07,054 - logger_file -INFO - Add an Address
+2022-12-01 21:25:07,630 - logger_file -INFO - address information
+2022-12-01 21:25:12,724 - logger_file -INFO - Add a contry
+2022-12-01 21:25:13,561 - logger_file -INFO - the message was displayed
+2022-12-01 21:25:47,231 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:25:47,327 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 21:25:47,495 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 21:25:47,553 - logger_file -INFO - user clicked on login button
+2022-12-01 21:25:47,882 - logger_file -INFO - user logged in into account
+2022-12-01 21:25:47,964 - logger_file -INFO - user click on account option
+2022-12-01 21:25:53,067 - logger_file -INFO - Edit Address
+2022-12-01 21:25:53,956 - logger_file -INFO - address information
+2022-12-01 21:25:59,009 - logger_file -INFO - the shoud be showing
+2022-12-01 21:26:45,230 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:26:45,329 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 21:26:45,502 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 21:26:45,560 - logger_file -INFO - user clicked on login button
+2022-12-01 21:26:45,890 - logger_file -INFO - user logged in into account
+2022-12-01 21:26:45,974 - logger_file -INFO - user click on account option
+2022-12-01 21:29:29,037 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:29:29,115 - logger_file -INFO - click on all section
+2022-12-01 21:29:34,159 - logger_file -INFO - options Electronics, Computers, Smart Home, Sports and Automative are present
+2022-12-01 21:30:10,473 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:30:10,555 - logger_file -INFO - click on all section
+2022-12-01 21:30:15,593 - logger_file -INFO - user is on Electronics section
+2022-12-01 21:30:15,644 - logger_file -INFO - Video Games options are present in departmentTV & Video
+2022-12-01 21:30:17,776 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:30:17,843 - logger_file -INFO - click on all section
+2022-12-01 21:30:22,884 - logger_file -INFO - user is on Computers section
+2022-12-01 21:30:22,931 - logger_file -INFO - Accessories options are present in departmentNetworking
+2022-12-01 21:30:25,195 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:30:25,263 - logger_file -INFO - click on all section
+2022-12-01 21:30:32,461 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:30:32,527 - logger_file -INFO - click on all section
+2022-12-01 21:30:37,572 - logger_file -INFO - user is on Sports section
+2022-12-01 21:30:37,619 - logger_file -INFO - Athletic Clothing options are present in departmentExercise & Fitness
+2022-12-01 21:30:39,675 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:30:39,753 - logger_file -INFO - click on all section
+2022-12-01 21:30:44,800 - logger_file -INFO - user is on Automotive section
+2022-12-01 21:30:44,850 - logger_file -INFO - MotorCycle & Powersports options are present in departmentAutomative Parts & Accessories
+2022-12-01 21:31:22,252 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:31:22,351 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 21:31:22,517 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 21:31:22,574 - logger_file -INFO - user clicked on login button
+2022-12-01 21:31:22,906 - logger_file -INFO - user logged in into account
+2022-12-01 21:31:22,959 - logger_file -INFO - select smart home
+2022-12-01 21:31:23,051 - logger_file -INFO - search some thing
+2022-12-01 21:31:23,106 - logger_file -INFO - click on search
+2022-12-01 21:31:23,495 - logger_file -INFO - item add 
+2022-12-01 21:31:23,740 - logger_file -INFO - item count added
+2022-12-01 21:31:23,795 - logger_file -INFO - item added to cart
+2022-12-01 21:31:23,811 - logger_file -INFO - item added to cart successfully
+2022-12-01 21:33:54,055 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:33:54,153 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 21:33:54,323 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 21:33:54,380 - logger_file -INFO - user clicked on login button
+2022-12-01 21:33:54,781 - logger_file -INFO - user logged in into account
+2022-12-01 21:33:54,837 - logger_file -INFO - select smart home
+2022-12-01 21:33:54,939 - logger_file -INFO - search some thing
+2022-12-01 21:34:00,047 - logger_file -INFO - click on search
+2022-12-01 21:34:00,295 - logger_file -INFO - item add 
+2022-12-01 21:34:05,367 - logger_file -INFO - item count added
+2022-12-01 21:34:05,430 - logger_file -INFO - item added to cart
+2022-12-01 21:34:05,452 - logger_file -INFO - item added to cart successfully
+2022-12-01 21:35:29,648 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:35:29,656 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:35:29,754 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 21:35:29,924 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 21:35:29,980 - logger_file -INFO - user clicked on login button
+2022-12-01 21:35:30,332 - logger_file -INFO - user logged in into account
+2022-12-01 21:35:30,388 - logger_file -INFO - select smart home
+2022-12-01 21:35:30,480 - logger_file -INFO - search some thing
+2022-12-01 21:35:35,562 - logger_file -INFO - click on search
+2022-12-01 21:35:35,814 - logger_file -INFO - item add 
+2022-12-01 21:35:40,907 - logger_file -INFO - item count added
+2022-12-01 21:35:40,960 - logger_file -INFO - item added to cart
+2022-12-01 21:35:40,975 - logger_file -INFO - item added to cart successfully
+2022-12-01 21:35:46,209 - logger_file -INFO - add Address
+2022-12-01 21:37:05,004 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:37:05,012 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:37:05,112 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 21:37:05,285 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 21:37:05,341 - logger_file -INFO - user clicked on login button
+2022-12-01 21:37:05,739 - logger_file -INFO - user logged in into account
+2022-12-01 21:37:05,794 - logger_file -INFO - select smart home
+2022-12-01 21:37:05,903 - logger_file -INFO - search some thing
+2022-12-01 21:37:10,981 - logger_file -INFO - click on search
+2022-12-01 21:37:11,234 - logger_file -INFO - item add 
+2022-12-01 21:37:16,309 - logger_file -INFO - item count added
+2022-12-01 21:37:16,366 - logger_file -INFO - item added to cart
+2022-12-01 21:37:16,387 - logger_file -INFO - item added to cart successfully
+2022-12-01 21:37:21,614 - logger_file -INFO - add Address
+2022-12-01 21:50:54,131 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:50:54,138 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:50:54,232 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 21:50:54,407 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 21:50:54,462 - logger_file -INFO - user clicked on login button
+2022-12-01 21:50:54,873 - logger_file -INFO - user logged in into account
+2022-12-01 21:50:54,928 - logger_file -INFO - select smart home
+2022-12-01 21:50:55,020 - logger_file -INFO - search some thing
+2022-12-01 21:51:00,125 - logger_file -INFO - click on search
+2022-12-01 21:51:00,378 - logger_file -INFO - item add 
+2022-12-01 21:51:05,452 - logger_file -INFO - item count added
+2022-12-01 21:51:05,505 - logger_file -INFO - item added to cart
+2022-12-01 21:51:05,522 - logger_file -INFO - item added to cart successfully
+2022-12-01 21:51:05,588 - logger_file -INFO - place order
+2022-12-01 21:51:05,671 - logger_file -INFO - click on proceed
+2022-12-01 21:51:05,748 - logger_file -INFO - add Address
+2022-12-01 21:57:25,030 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:57:25,040 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:57:25,130 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 21:57:25,301 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 21:57:25,356 - logger_file -INFO - user clicked on login button
+2022-12-01 21:57:25,687 - logger_file -INFO - user logged in into account
+2022-12-01 21:57:25,742 - logger_file -INFO - select smart home
+2022-12-01 21:57:25,831 - logger_file -INFO - search some thing
+2022-12-01 21:57:30,898 - logger_file -INFO - click on search
+2022-12-01 21:57:31,150 - logger_file -INFO - item add 
+2022-12-01 21:57:36,236 - logger_file -INFO - item count added
+2022-12-01 21:57:36,293 - logger_file -INFO - item added to cart
+2022-12-01 21:57:36,314 - logger_file -INFO - item added to cart successfully
+2022-12-01 21:57:36,380 - logger_file -INFO - place order
+2022-12-01 21:57:36,463 - logger_file -INFO - click on proceed
+2022-12-01 21:57:36,536 - logger_file -INFO - add Address
+2022-12-01 21:59:26,351 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:59:26,359 - logger_file -INFO - React App is equal to React App
+2022-12-01 21:59:26,448 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 21:59:26,618 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 21:59:26,675 - logger_file -INFO - user clicked on login button
+2022-12-01 21:59:27,058 - logger_file -INFO - user logged in into account
+2022-12-01 21:59:27,111 - logger_file -INFO - select smart home
+2022-12-01 21:59:27,201 - logger_file -INFO - search some thing
+2022-12-01 21:59:27,255 - logger_file -INFO - click on search
+2022-12-01 21:59:27,561 - logger_file -INFO - item add 
+2022-12-01 21:59:27,816 - logger_file -INFO - item count added
+2022-12-01 21:59:27,870 - logger_file -INFO - item added to cart
+2022-12-01 21:59:27,888 - logger_file -INFO - item added to cart successfully
+2022-12-01 21:59:27,953 - logger_file -INFO - place order
+2022-12-01 21:59:28,028 - logger_file -INFO - click on proceed
+2022-12-01 21:59:28,097 - logger_file -INFO - add Address
+2022-12-01 22:00:42,546 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:00:42,553 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:00:42,653 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:00:42,825 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:00:42,883 - logger_file -INFO - user clicked on login button
+2022-12-01 22:00:43,219 - logger_file -INFO - user logged in into account
+2022-12-01 22:00:43,274 - logger_file -INFO - select smart home
+2022-12-01 22:00:43,365 - logger_file -INFO - search some thing
+2022-12-01 22:00:43,417 - logger_file -INFO - click on search
+2022-12-01 22:00:43,782 - logger_file -INFO - item add 
+2022-12-01 22:00:44,032 - logger_file -INFO - item count added
+2022-12-01 22:00:44,088 - logger_file -INFO - item added to cart
+2022-12-01 22:00:44,105 - logger_file -INFO - item added to cart successfully
+2022-12-01 22:00:44,164 - logger_file -INFO - place order
+2022-12-01 22:00:44,236 - logger_file -INFO - click on proceed
+2022-12-01 22:00:44,305 - logger_file -INFO - add Address
+2022-12-01 22:02:29,912 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:02:30,010 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:02:30,182 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:02:30,238 - logger_file -INFO - user clicked on login button
+2022-12-01 22:02:30,578 - logger_file -INFO - user logged in into account
+2022-12-01 22:02:30,661 - logger_file -INFO - user click on account option
+2022-12-01 22:02:35,769 - logger_file -INFO - Add an Address
+2022-12-01 22:02:36,371 - logger_file -INFO - address information
+2022-12-01 22:02:41,450 - logger_file -INFO - Add a contry
+2022-12-01 22:02:42,272 - logger_file -INFO - the message was displayed
+2022-12-01 22:07:08,195 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:07:08,288 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:07:08,467 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:07:08,522 - logger_file -INFO - user clicked on login button
+2022-12-01 22:07:08,862 - logger_file -INFO - user logged in into account
+2022-12-01 22:07:08,946 - logger_file -INFO - user click on account option
+2022-12-01 22:07:14,038 - logger_file -INFO - Add an Address
+2022-12-01 22:07:14,618 - logger_file -INFO - address information
+2022-12-01 22:07:19,703 - logger_file -INFO - Add a contry
+2022-12-01 22:07:20,468 - logger_file -INFO - the message was displayed
+2022-12-01 22:08:30,733 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:08:30,741 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:08:30,836 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:08:31,013 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:08:31,071 - logger_file -INFO - user clicked on login button
+2022-12-01 22:08:31,407 - logger_file -INFO - user logged in into account
+2022-12-01 22:08:31,460 - logger_file -INFO - select smart home
+2022-12-01 22:08:31,548 - logger_file -INFO - search some thing
+2022-12-01 22:08:31,607 - logger_file -INFO - click on search
+2022-12-01 22:08:31,925 - logger_file -INFO - item add 
+2022-12-01 22:08:32,168 - logger_file -INFO - item count added
+2022-12-01 22:08:32,221 - logger_file -INFO - item added to cart
+2022-12-01 22:08:32,238 - logger_file -INFO - item added to cart successfully
+2022-12-01 22:08:32,300 - logger_file -INFO - place order
+2022-12-01 22:08:32,371 - logger_file -INFO - click on proceed
+2022-12-01 22:08:32,446 - logger_file -INFO - add Address
+2022-12-01 22:12:26,395 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:12:26,493 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:12:26,673 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:12:26,731 - logger_file -INFO - user clicked on login button
+2022-12-01 22:12:27,065 - logger_file -INFO - user logged in into account
+2022-12-01 22:12:27,145 - logger_file -INFO - user click on account option
+2022-12-01 22:12:32,253 - logger_file -INFO - Add an Address
+2022-12-01 22:12:32,834 - logger_file -INFO - address information
+2022-12-01 22:12:37,926 - logger_file -INFO - Add a contry
+2022-12-01 22:12:38,711 - logger_file -INFO - the message was displayed
+2022-12-01 22:13:38,270 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:13:38,277 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:13:38,365 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:13:38,538 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:13:38,594 - logger_file -INFO - user clicked on login button
+2022-12-01 22:13:39,067 - logger_file -INFO - user logged in into account
+2022-12-01 22:13:39,125 - logger_file -INFO - select smart home
+2022-12-01 22:13:39,213 - logger_file -INFO - search some thing
+2022-12-01 22:13:39,270 - logger_file -INFO - click on search
+2022-12-01 22:13:39,573 - logger_file -INFO - item add 
+2022-12-01 22:13:39,827 - logger_file -INFO - item count added
+2022-12-01 22:13:39,881 - logger_file -INFO - item added to cart
+2022-12-01 22:13:39,898 - logger_file -INFO - item added to cart successfully
+2022-12-01 22:13:39,959 - logger_file -INFO - place order
+2022-12-01 22:13:40,031 - logger_file -INFO - click on proceed
+2022-12-01 22:13:40,099 - logger_file -INFO - add Address
+2022-12-01 22:13:40,668 - logger_file -INFO - address information
+2022-12-01 22:13:45,762 - logger_file -INFO - Add a contry
+2022-12-01 22:16:24,448 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:16:24,456 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:16:24,553 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:16:24,726 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:16:24,784 - logger_file -INFO - user clicked on login button
+2022-12-01 22:16:25,183 - logger_file -INFO - user logged in into account
+2022-12-01 22:16:25,253 - logger_file -INFO - select smart home
+2022-12-01 22:16:25,347 - logger_file -INFO - search some thing
+2022-12-01 22:16:25,401 - logger_file -INFO - click on search
+2022-12-01 22:16:25,642 - logger_file -INFO - item add 
+2022-12-01 22:16:25,915 - logger_file -INFO - item count added
+2022-12-01 22:16:25,967 - logger_file -INFO - item added to cart
+2022-12-01 22:16:25,983 - logger_file -INFO - item added to cart successfully
+2022-12-01 22:16:26,045 - logger_file -INFO - place order
+2022-12-01 22:16:26,119 - logger_file -INFO - click on proceed
+2022-12-01 22:16:26,186 - logger_file -INFO - add Address
+2022-12-01 22:16:26,763 - logger_file -INFO - address information
+2022-12-01 22:16:31,855 - logger_file -INFO - Add a contry
+2022-12-01 22:17:42,750 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:17:42,759 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:17:42,851 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:17:43,021 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:17:43,078 - logger_file -INFO - user clicked on login button
+2022-12-01 22:17:43,461 - logger_file -INFO - user logged in into account
+2022-12-01 22:17:43,515 - logger_file -INFO - select smart home
+2022-12-01 22:17:43,610 - logger_file -INFO - search some thing
+2022-12-01 22:17:43,665 - logger_file -INFO - click on search
+2022-12-01 22:17:43,964 - logger_file -INFO - item add 
+2022-12-01 22:17:44,225 - logger_file -INFO - item count added
+2022-12-01 22:17:44,279 - logger_file -INFO - item added to cart
+2022-12-01 22:17:44,295 - logger_file -INFO - item added to cart successfully
+2022-12-01 22:17:44,357 - logger_file -INFO - place order
+2022-12-01 22:17:44,431 - logger_file -INFO - click on proceed
+2022-12-01 22:17:44,499 - logger_file -INFO - add Address
+2022-12-01 22:17:45,064 - logger_file -INFO - address information
+2022-12-01 22:17:50,158 - logger_file -INFO - Add a contry
+2022-12-01 22:19:56,674 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:19:56,681 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:19:56,770 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:19:56,945 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:19:57,000 - logger_file -INFO - user clicked on login button
+2022-12-01 22:19:57,349 - logger_file -INFO - user logged in into account
+2022-12-01 22:19:57,403 - logger_file -INFO - select smart home
+2022-12-01 22:19:57,501 - logger_file -INFO - search some thing
+2022-12-01 22:19:57,556 - logger_file -INFO - click on search
+2022-12-01 22:19:57,911 - logger_file -INFO - item add 
+2022-12-01 22:19:58,169 - logger_file -INFO - item count added
+2022-12-01 22:19:58,224 - logger_file -INFO - item added to cart
+2022-12-01 22:19:58,240 - logger_file -INFO - item added to cart successfully
+2022-12-01 22:19:58,300 - logger_file -INFO - place order
+2022-12-01 22:19:58,378 - logger_file -INFO - click on proceed
+2022-12-01 22:19:58,446 - logger_file -INFO - add Address
+2022-12-01 22:19:58,992 - logger_file -INFO - address information
+2022-12-01 22:20:04,086 - logger_file -INFO - Add a contry
+2022-12-01 22:22:32,310 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:22:32,319 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:22:32,412 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:22:32,584 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:22:32,638 - logger_file -INFO - user clicked on login button
+2022-12-01 22:22:33,026 - logger_file -INFO - user logged in into account
+2022-12-01 22:22:33,082 - logger_file -INFO - select smart home
+2022-12-01 22:22:33,173 - logger_file -INFO - search some thing
+2022-12-01 22:22:33,231 - logger_file -INFO - click on search
+2022-12-01 22:22:33,524 - logger_file -INFO - item add 
+2022-12-01 22:22:33,778 - logger_file -INFO - item count added
+2022-12-01 22:22:33,833 - logger_file -INFO - item added to cart
+2022-12-01 22:22:33,850 - logger_file -INFO - item added to cart successfully
+2022-12-01 22:22:33,913 - logger_file -INFO - place order
+2022-12-01 22:22:33,984 - logger_file -INFO - click on proceed
+2022-12-01 22:22:34,053 - logger_file -INFO - add Address
+2022-12-01 22:22:34,596 - logger_file -INFO - address information
+2022-12-01 22:22:39,688 - logger_file -INFO - Add a contry
+2022-12-01 22:22:39,890 - logger_file -INFO - click on new payment
+2022-12-01 22:22:40,223 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-01 22:22:40,280 - logger_file -INFO - user submit the cart information
+2022-12-01 22:26:31,489 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:26:31,498 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:26:31,589 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:26:31,760 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:26:31,821 - logger_file -INFO - user clicked on login button
+2022-12-01 22:26:32,157 - logger_file -INFO - user logged in into account
+2022-12-01 22:26:32,214 - logger_file -INFO - select smart home
+2022-12-01 22:26:32,305 - logger_file -INFO - search some thing
+2022-12-01 22:26:32,360 - logger_file -INFO - click on search
+2022-12-01 22:26:32,728 - logger_file -INFO - item add 
+2022-12-01 22:26:32,994 - logger_file -INFO - item count added
+2022-12-01 22:26:33,051 - logger_file -INFO - item added to cart
+2022-12-01 22:26:33,067 - logger_file -INFO - item added to cart successfully
+2022-12-01 22:26:33,132 - logger_file -INFO - place order
+2022-12-01 22:26:33,207 - logger_file -INFO - click on proceed
+2022-12-01 22:26:33,280 - logger_file -INFO - add Address
+2022-12-01 22:26:33,825 - logger_file -INFO - address information
+2022-12-01 22:26:38,921 - logger_file -INFO - Add a contry
+2022-12-01 22:32:52,565 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:32:52,574 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:32:52,671 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:32:52,837 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:32:52,895 - logger_file -INFO - user clicked on login button
+2022-12-01 22:32:53,459 - logger_file -INFO - user logged in into account
+2022-12-01 22:32:53,514 - logger_file -INFO - select smart home
+2022-12-01 22:32:53,614 - logger_file -INFO - search some thing
+2022-12-01 22:32:53,668 - logger_file -INFO - click on search
+2022-12-01 22:32:54,150 - logger_file -INFO - item add 
+2022-12-01 22:32:54,580 - logger_file -INFO - item count added
+2022-12-01 22:32:54,631 - logger_file -INFO - item added to cart
+2022-12-01 22:32:54,646 - logger_file -INFO - item added to cart successfully
+2022-12-01 22:32:54,708 - logger_file -INFO - place order
+2022-12-01 22:32:54,787 - logger_file -INFO - click on proceed
+2022-12-01 22:32:54,856 - logger_file -INFO - add Address
+2022-12-01 22:32:55,417 - logger_file -INFO - address information
+2022-12-01 22:32:55,486 - logger_file -INFO - Add a contry
+2022-12-01 22:32:55,879 - logger_file -INFO - click on new payment
+2022-12-01 22:32:56,181 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-01 22:32:56,240 - logger_file -INFO - user submit the cart information
+2022-12-01 22:34:37,798 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:34:37,805 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:34:37,897 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:34:38,071 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:34:38,126 - logger_file -INFO - user clicked on login button
+2022-12-01 22:34:38,600 - logger_file -INFO - user logged in into account
+2022-12-01 22:34:38,657 - logger_file -INFO - select smart home
+2022-12-01 22:34:38,744 - logger_file -INFO - search some thing
+2022-12-01 22:34:38,801 - logger_file -INFO - click on search
+2022-12-01 22:34:39,156 - logger_file -INFO - item add 
+2022-12-01 22:34:39,581 - logger_file -INFO - item count added
+2022-12-01 22:34:39,632 - logger_file -INFO - item added to cart
+2022-12-01 22:34:39,649 - logger_file -INFO - item added to cart successfully
+2022-12-01 22:34:39,711 - logger_file -INFO - place order
+2022-12-01 22:34:39,784 - logger_file -INFO - click on proceed
+2022-12-01 22:34:39,852 - logger_file -INFO - add Address
+2022-12-01 22:34:40,419 - logger_file -INFO - address information
+2022-12-01 22:34:40,493 - logger_file -INFO - Add a contry
+2022-12-01 22:34:40,814 - logger_file -INFO - click on new payment
+2022-12-01 22:34:41,148 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-01 22:34:41,212 - logger_file -INFO - user submit the cart information
+2022-12-01 22:36:29,843 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:36:29,851 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:36:29,944 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:36:30,119 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:36:30,173 - logger_file -INFO - user clicked on login button
+2022-12-01 22:36:30,636 - logger_file -INFO - user logged in into account
+2022-12-01 22:36:30,698 - logger_file -INFO - select smart home
+2022-12-01 22:36:30,785 - logger_file -INFO - search some thing
+2022-12-01 22:36:30,839 - logger_file -INFO - click on search
+2022-12-01 22:36:31,195 - logger_file -INFO - item add 
+2022-12-01 22:36:31,643 - logger_file -INFO - item count added
+2022-12-01 22:36:31,694 - logger_file -INFO - item added to cart
+2022-12-01 22:36:32,044 - logger_file -INFO - item added to cart successfully
+2022-12-01 22:36:32,127 - logger_file -INFO - place order
+2022-12-01 22:36:32,201 - logger_file -INFO - click on proceed
+2022-12-01 22:36:32,268 - logger_file -INFO - add Address
+2022-12-01 22:36:32,810 - logger_file -INFO - address information
+2022-12-01 22:36:32,880 - logger_file -INFO - Add a contry
+2022-12-01 22:36:33,185 - logger_file -INFO - click on new payment
+2022-12-01 22:36:33,482 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-01 22:36:33,539 - logger_file -INFO - user submit the cart information
+2022-12-01 22:37:04,689 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:37:04,697 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:37:04,793 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:37:04,965 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:37:05,019 - logger_file -INFO - user clicked on login button
+2022-12-01 22:37:05,415 - logger_file -INFO - user logged in into account
+2022-12-01 22:37:05,471 - logger_file -INFO - select smart home
+2022-12-01 22:37:05,563 - logger_file -INFO - search some thing
+2022-12-01 22:37:05,617 - logger_file -INFO - click on search
+2022-12-01 22:37:06,039 - logger_file -INFO - item add 
+2022-12-01 22:37:06,421 - logger_file -INFO - item count added
+2022-12-01 22:37:06,478 - logger_file -INFO - item added to cart
+2022-12-01 22:37:06,494 - logger_file -INFO - item added to cart successfully
+2022-12-01 22:37:06,552 - logger_file -INFO - place order
+2022-12-01 22:37:06,626 - logger_file -INFO - click on proceed
+2022-12-01 22:37:06,696 - logger_file -INFO - add Address
+2022-12-01 22:37:07,260 - logger_file -INFO - address information
+2022-12-01 22:37:07,325 - logger_file -INFO - Add a contry
+2022-12-01 22:37:07,768 - logger_file -INFO - click on new payment
+2022-12-01 22:37:08,074 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-01 22:37:08,128 - logger_file -INFO - user submit the cart information
+2022-12-01 22:38:23,508 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:38:23,517 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:38:23,613 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:38:23,775 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:38:23,830 - logger_file -INFO - user clicked on login button
+2022-12-01 22:38:24,410 - logger_file -INFO - user logged in into account
+2022-12-01 22:38:24,466 - logger_file -INFO - select smart home
+2022-12-01 22:38:24,568 - logger_file -INFO - search some thing
+2022-12-01 22:38:24,623 - logger_file -INFO - click on search
+2022-12-01 22:38:25,172 - logger_file -INFO - item add 
+2022-12-01 22:38:25,540 - logger_file -INFO - item count added
+2022-12-01 22:38:25,591 - logger_file -INFO - item added to cart
+2022-12-01 22:38:25,609 - logger_file -INFO - item added to cart successfully
+2022-12-01 22:38:25,670 - logger_file -INFO - place order
+2022-12-01 22:38:25,745 - logger_file -INFO - click on proceed
+2022-12-01 22:38:25,813 - logger_file -INFO - add Address
+2022-12-01 22:38:26,352 - logger_file -INFO - address information
+2022-12-01 22:38:26,421 - logger_file -INFO - Add a contry
+2022-12-01 22:38:26,859 - logger_file -INFO - click on new payment
+2022-12-01 22:38:27,164 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-01 22:38:27,223 - logger_file -INFO - user submit the cart information
+2022-12-01 22:38:27,608 - logger_file -INFO - placeOrder
+2022-12-01 22:40:03,502 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:40:03,509 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:40:03,601 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:40:03,771 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:40:03,832 - logger_file -INFO - user clicked on login button
+2022-12-01 22:40:04,229 - logger_file -INFO - user logged in into account
+2022-12-01 22:40:04,284 - logger_file -INFO - select smart home
+2022-12-01 22:40:04,377 - logger_file -INFO - search some thing
+2022-12-01 22:40:04,432 - logger_file -INFO - click on search
+2022-12-01 22:40:04,918 - logger_file -INFO - item add 
+2022-12-01 22:40:05,347 - logger_file -INFO - item count added
+2022-12-01 22:40:05,400 - logger_file -INFO - item added to cart
+2022-12-01 22:40:05,798 - logger_file -INFO - item added to cart successfully
+2022-12-01 22:40:05,861 - logger_file -INFO - place order
+2022-12-01 22:40:05,936 - logger_file -INFO - click on proceed
+2022-12-01 22:40:06,010 - logger_file -INFO - add Address
+2022-12-01 22:40:06,555 - logger_file -INFO - address information
+2022-12-01 22:40:06,624 - logger_file -INFO - Add a contry
+2022-12-01 22:40:06,962 - logger_file -INFO - click on new payment
+2022-12-01 22:40:07,276 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-01 22:40:07,337 - logger_file -INFO - user submit the cart information
+2022-12-01 22:40:40,997 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:40:41,005 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:40:41,099 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:40:41,264 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:40:41,324 - logger_file -INFO - user clicked on login button
+2022-12-01 22:40:41,904 - logger_file -INFO - user logged in into account
+2022-12-01 22:40:41,957 - logger_file -INFO - select smart home
+2022-12-01 22:40:42,049 - logger_file -INFO - search some thing
+2022-12-01 22:40:42,105 - logger_file -INFO - click on search
+2022-12-01 22:40:42,530 - logger_file -INFO - item add 
+2022-12-01 22:40:42,859 - logger_file -INFO - item count added
+2022-12-01 22:40:42,913 - logger_file -INFO - item added to cart
+2022-12-01 22:40:42,931 - logger_file -INFO - item added to cart successfully
+2022-12-01 22:40:42,991 - logger_file -INFO - place order
+2022-12-01 22:40:43,068 - logger_file -INFO - click on proceed
+2022-12-01 22:40:43,138 - logger_file -INFO - add Address
+2022-12-01 22:40:43,683 - logger_file -INFO - address information
+2022-12-01 22:40:43,750 - logger_file -INFO - Add a contry
+2022-12-01 22:40:44,189 - logger_file -INFO - click on new payment
+2022-12-01 22:40:44,467 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-01 22:40:44,531 - logger_file -INFO - user submit the cart information
+2022-12-01 22:40:45,123 - logger_file -INFO - placeOrder
+2022-12-01 22:40:45,972 - logger_file -INFO - recived massage
+2022-12-01 22:41:20,373 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:41:20,383 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:41:20,474 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:41:20,643 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:41:20,699 - logger_file -INFO - user clicked on login button
+2022-12-01 22:41:21,306 - logger_file -INFO - user logged in into account
+2022-12-01 22:41:21,363 - logger_file -INFO - select smart home
+2022-12-01 22:41:21,435 - logger_file -INFO - search some thing
+2022-12-01 22:41:21,492 - logger_file -INFO - click on search
+2022-12-01 22:41:21,923 - logger_file -INFO - secound item added
+2022-12-01 22:41:22,369 - logger_file -INFO - item count added
+2022-12-01 22:41:22,427 - logger_file -INFO - item added to cart
+2022-12-01 22:41:22,770 - logger_file -INFO - item added to cart successfully
+2022-12-01 22:41:22,845 - logger_file -INFO - place order
+2022-12-01 22:41:22,925 - logger_file -INFO - click on proceed
+2022-12-01 22:41:22,976 - logger_file -INFO - placeOrder
+2022-12-01 22:41:23,883 - logger_file -INFO - recived massage
+2022-12-01 22:43:42,768 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:43:42,863 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:43:43,038 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:43:43,095 - logger_file -INFO - user clicked on login button
+2022-12-01 22:43:43,539 - logger_file -INFO - user logged in into account
+2022-12-01 22:43:43,609 - logger_file -INFO - click on order
+2022-12-01 22:43:44,265 - logger_file -INFO - click on cancel
+2022-12-01 22:43:44,328 - logger_file -INFO - choose the resone
+2022-12-01 22:43:44,382 - logger_file -INFO - ordercancelled
+2022-12-01 22:43:44,395 - logger_file -INFO - order canceled successfully
+2022-12-01 22:44:48,559 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:44:48,657 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:44:48,826 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:44:48,881 - logger_file -INFO - user clicked on login button
+2022-12-01 22:44:49,517 - logger_file -INFO - user logged in into account
+2022-12-01 22:44:49,587 - logger_file -INFO - click on order
+2022-12-01 22:44:54,670 - logger_file -INFO - click on cancel
+2022-12-01 22:44:54,758 - logger_file -INFO - choose the resone
+2022-12-01 22:44:54,826 - logger_file -INFO - ordercancelled
+2022-12-01 22:44:54,839 - logger_file -INFO - order canceled successfully
+2022-12-01 22:46:02,459 - logger_file -INFO - React App is equal to React App
+2022-12-01 22:46:02,556 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 22:46:02,730 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 22:46:02,784 - logger_file -INFO - user clicked on login button
+2022-12-01 22:46:03,354 - logger_file -INFO - user logged in into account
+2022-12-01 22:46:03,422 - logger_file -INFO - click on order
+2022-12-01 22:46:08,514 - logger_file -INFO - click on return 
+2022-12-01 22:46:13,596 - logger_file -INFO -  Choose return resone
+2022-12-01 22:46:13,651 - logger_file -INFO - choose drop of location
+2022-12-01 22:46:13,708 - logger_file -INFO - item returned
+2022-12-01 22:46:14,114 - logger_file -INFO - the message was displayed
+2022-12-01 23:10:42,885 - logger_file -INFO - React App is equal to React App
+2022-12-01 23:10:42,990 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 23:10:43,183 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 23:10:43,240 - logger_file -INFO - user clicked on login button
+2022-12-01 23:10:43,626 - logger_file -INFO - user logged in into account
+2022-12-01 23:10:43,698 - logger_file -INFO - click on order
+2022-12-01 23:10:48,785 - logger_file -INFO - add Review
+2022-12-01 23:11:45,369 - logger_file -INFO - React App is equal to React App
+2022-12-01 23:11:45,468 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 23:11:45,636 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 23:11:45,694 - logger_file -INFO - user clicked on login button
+2022-12-01 23:11:46,275 - logger_file -INFO - user logged in into account
+2022-12-01 23:11:46,343 - logger_file -INFO - click on order
+2022-12-01 23:11:51,430 - logger_file -INFO - add Review
+2022-12-01 23:27:49,507 - logger_file -INFO - React App is equal to React App
+2022-12-01 23:27:49,604 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 23:27:49,775 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 23:27:49,831 - logger_file -INFO - user clicked on login button
+2022-12-01 23:27:50,308 - logger_file -INFO - user logged in into account
+2022-12-01 23:27:50,375 - logger_file -INFO - click on order
+2022-12-01 23:27:55,459 - logger_file -INFO - click on return 
+2022-12-01 23:28:00,538 - logger_file -INFO -  Choose return resone
+2022-12-01 23:28:00,592 - logger_file -INFO - choose drop of location
+2022-12-01 23:28:00,647 - logger_file -INFO - item returned
+2022-12-01 23:28:01,114 - logger_file -INFO - the message was displayed
+2022-12-01 23:29:05,310 - logger_file -INFO - React App is equal to React App
+2022-12-01 23:29:05,406 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 23:29:05,584 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 23:29:05,639 - logger_file -INFO - user clicked on login button
+2022-12-01 23:29:06,711 - logger_file -INFO - user logged in into account
+2022-12-01 23:29:06,780 - logger_file -INFO - click on order
+2022-12-01 23:29:11,859 - logger_file -INFO - add Review
+2022-12-01 23:29:12,050 - logger_file -INFO - user review the order
+2022-12-01 23:29:12,112 - logger_file -INFO - click on add review
+2022-12-01 23:30:15,125 - logger_file -INFO - React App is equal to React App
+2022-12-01 23:30:15,224 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 23:30:15,402 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 23:30:15,457 - logger_file -INFO - user clicked on login button
+2022-12-01 23:30:16,369 - logger_file -INFO - user logged in into account
+2022-12-01 23:30:16,438 - logger_file -INFO - click on order
+2022-12-01 23:30:21,523 - logger_file -INFO - add Review
+2022-12-01 23:30:21,723 - logger_file -INFO - user review the order
+2022-12-01 23:30:21,797 - logger_file -INFO - click on add review
+2022-12-01 23:30:21,828 - logger_file -INFO - review the order
+2022-12-01 23:31:47,498 - logger_file -INFO - React App is equal to React App
+2022-12-01 23:31:47,593 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 23:31:47,769 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 23:31:47,827 - logger_file -INFO - user clicked on login button
+2022-12-01 23:31:48,360 - logger_file -INFO - user logged in into account
+2022-12-01 23:32:30,044 - logger_file -INFO - React App is equal to React App
+2022-12-01 23:32:30,147 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 23:32:30,216 - logger_file -INFO - user clicked on Create New Account button
+2022-12-01 23:32:30,523 - logger_file -INFO - user entered required information into sign up form
+2022-12-01 23:32:30,578 - logger_file -INFO - user clicked on Sign up Button
+2022-12-01 23:32:31,039 - logger_file -INFO - Account was created
+2022-12-01 23:37:41,322 - logger_file -INFO - React App is equal to React App
+2022-12-01 23:37:41,417 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 23:37:41,586 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 23:37:41,643 - logger_file -INFO - user clicked on login button
+2022-12-01 23:37:42,241 - logger_file -INFO - user logged in into account
+2022-12-01 23:37:42,325 - logger_file -INFO - user click on account option
+2022-12-01 23:40:41,563 - logger_file -INFO - React App is equal to React App
+2022-12-01 23:40:41,655 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 23:40:41,823 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 23:40:41,880 - logger_file -INFO - user clicked on login button
+2022-12-01 23:40:42,413 - logger_file -INFO - user logged in into account
+2022-12-01 23:40:42,495 - logger_file -INFO - user click on account option
+2022-12-01 23:41:38,072 - logger_file -INFO - React App is equal to React App
+2022-12-01 23:41:38,167 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 23:41:38,333 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 23:41:38,394 - logger_file -INFO - user clicked on login button
+2022-12-01 23:41:38,912 - logger_file -INFO - user logged in into account
+2022-12-01 23:41:38,994 - logger_file -INFO - user click on account option
+2022-12-01 23:41:44,091 - logger_file -INFO - Add an Address
+2022-12-01 23:41:44,684 - logger_file -INFO - address information
+2022-12-01 23:41:44,759 - logger_file -INFO - Add a contry
+2022-12-01 23:41:45,637 - logger_file -INFO - the message was displayed
+2022-12-01 23:42:26,738 - logger_file -INFO - React App is equal to React App
+2022-12-01 23:42:26,838 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 23:42:27,004 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 23:42:27,059 - logger_file -INFO - user clicked on login button
+2022-12-01 23:42:27,654 - logger_file -INFO - user logged in into account
+2022-12-01 23:42:27,738 - logger_file -INFO - user click on account option
+2022-12-01 23:44:58,349 - logger_file -INFO - React App is equal to React App
+2022-12-01 23:44:58,448 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 23:44:58,621 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 23:44:58,677 - logger_file -INFO - user clicked on login button
+2022-12-01 23:44:59,259 - logger_file -INFO - user logged in into account
+2022-12-01 23:44:59,342 - logger_file -INFO - user click on account option
+2022-12-01 23:45:04,408 - logger_file -INFO - remove the address successfully
+2022-12-01 23:45:04,429 - logger_file -INFO - Address Removed
+2022-12-01 23:47:13,733 - logger_file -INFO - React App is equal to React App
+2022-12-01 23:47:13,828 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 23:47:13,995 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 23:47:14,049 - logger_file -INFO - user clicked on login button
+2022-12-01 23:47:14,506 - logger_file -INFO - user logged in into account
+2022-12-01 23:47:14,589 - logger_file -INFO - user click on account option
+2022-12-01 23:47:19,752 - logger_file -INFO - user removed the payment
+2022-12-01 23:49:10,535 - logger_file -INFO - React App is equal to React App
+2022-12-01 23:49:10,636 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 23:49:10,805 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 23:49:10,858 - logger_file -INFO - user clicked on login button
+2022-12-01 23:49:11,491 - logger_file -INFO - user logged in into account
+2022-12-01 23:49:11,582 - logger_file -INFO - user click on account option
+2022-12-01 23:49:16,667 - logger_file -INFO - user click on add payment
+2022-12-01 23:49:16,978 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-01 23:49:17,034 - logger_file -INFO - user submit the cart information
+2022-12-01 23:49:17,917 - logger_file -INFO - Payment Method added sucessfully
+2022-12-01 23:57:22,794 - logger_file -INFO - React App is equal to React App
+2022-12-01 23:57:22,890 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 23:57:23,060 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 23:57:23,114 - logger_file -INFO - user clicked on login button
+2022-12-01 23:57:23,630 - logger_file -INFO - user logged in into account
+2022-12-01 23:57:23,700 - logger_file -INFO - click on order
+2022-12-01 23:57:28,796 - logger_file -INFO - click on cancel
+2022-12-01 23:57:28,866 - logger_file -INFO - choose the resone
+2022-12-01 23:57:28,921 - logger_file -INFO - ordercancelled
+2022-12-01 23:57:28,935 - logger_file -INFO - order canceled successfully
+2022-12-01 23:57:55,288 - logger_file -INFO - React App is equal to React App
+2022-12-01 23:57:55,384 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 23:57:55,552 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 23:57:55,607 - logger_file -INFO - user clicked on login button
+2022-12-01 23:57:56,249 - logger_file -INFO - user logged in into account
+2022-12-01 23:57:56,317 - logger_file -INFO - click on order
+2022-12-01 23:58:01,411 - logger_file -INFO - click on return 
+2022-12-01 23:58:06,499 - logger_file -INFO -  Choose return resone
+2022-12-01 23:58:06,551 - logger_file -INFO - choose drop of location
+2022-12-01 23:58:06,606 - logger_file -INFO - item returned
+2022-12-01 23:58:06,956 - logger_file -INFO - the message was displayed
+2022-12-01 23:58:32,247 - logger_file -INFO - React App is equal to React App
+2022-12-01 23:58:32,342 - logger_file -INFO - user clicked on Sign In option
+2022-12-01 23:58:32,514 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-01 23:58:32,575 - logger_file -INFO - user clicked on login button
+2022-12-01 23:58:33,079 - logger_file -INFO - user logged in into account
+2022-12-01 23:58:33,149 - logger_file -INFO - click on order
+2022-12-01 23:58:38,237 - logger_file -INFO - add Review
+2022-12-01 23:58:38,400 - logger_file -INFO - user review the order
+2022-12-01 23:58:38,462 - logger_file -INFO - click on add review
+2022-12-01 23:58:38,491 - logger_file -INFO - review the order
+2022-12-02 00:00:46,740 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:00:46,835 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:00:47,005 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:00:47,061 - logger_file -INFO - user clicked on login button
+2022-12-02 00:00:48,944 - logger_file -INFO - user logged in into account
+2022-12-02 00:00:49,041 - logger_file -INFO - user click on account option
+2022-12-02 00:00:54,275 - logger_file -INFO - user update name Sudabaand phone916 777 444
+2022-12-02 00:00:59,369 - logger_file -INFO - user click on update button
+2022-12-02 00:00:59,383 - logger_file -INFO - user profile information is update
+2022-12-02 00:01:28,446 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:01:28,544 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:01:28,708 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:01:28,763 - logger_file -INFO - user clicked on login button
+2022-12-02 00:01:29,349 - logger_file -INFO - user logged in into account
+2022-12-02 00:01:29,433 - logger_file -INFO - user click on account option
+2022-12-02 00:01:34,508 - logger_file -INFO - user click on add payment
+2022-12-02 00:01:34,866 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-02 00:01:34,928 - logger_file -INFO - user submit the cart information
+2022-12-02 00:01:35,810 - logger_file -INFO - Payment Method added sucessfully
+2022-12-02 00:02:19,934 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:02:20,030 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:02:20,197 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:02:20,251 - logger_file -INFO - user clicked on login button
+2022-12-02 00:02:20,769 - logger_file -INFO - user logged in into account
+2022-12-02 00:02:20,851 - logger_file -INFO - user click on account option
+2022-12-02 00:02:25,997 - logger_file -INFO - user click on add payment
+2022-12-02 00:02:26,441 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-02 00:02:26,494 - logger_file -INFO - user submit the cart information
+2022-12-02 00:02:27,358 - logger_file -INFO - Message was displayed successfully
+2022-12-02 00:03:04,734 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:03:04,831 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:03:05,001 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:03:05,055 - logger_file -INFO - user clicked on login button
+2022-12-02 00:03:05,636 - logger_file -INFO - user logged in into account
+2022-12-02 00:03:05,719 - logger_file -INFO - user click on account option
+2022-12-02 00:03:10,808 - logger_file -INFO - Add an Address
+2022-12-02 00:03:11,380 - logger_file -INFO - address information
+2022-12-02 00:03:11,450 - logger_file -INFO - Add a contry
+2022-12-02 00:03:12,402 - logger_file -INFO - the message was displayed
+2022-12-02 00:03:36,158 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:03:36,253 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:03:36,419 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:03:36,474 - logger_file -INFO - user clicked on login button
+2022-12-02 00:03:36,938 - logger_file -INFO - user logged in into account
+2022-12-02 00:03:37,021 - logger_file -INFO - user click on account option
+2022-12-02 00:03:42,136 - logger_file -INFO - Edit Address
+2022-12-02 00:03:43,158 - logger_file -INFO - address information
+2022-12-02 00:03:48,214 - logger_file -INFO - the shoud be showing
+2022-12-02 00:04:46,796 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:04:46,894 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:04:47,068 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:04:47,124 - logger_file -INFO - user clicked on login button
+2022-12-02 00:04:48,018 - logger_file -INFO - user logged in into account
+2022-12-02 00:04:48,073 - logger_file -INFO - select smart home
+2022-12-02 00:04:48,164 - logger_file -INFO - search some thing
+2022-12-02 00:04:48,215 - logger_file -INFO - click on search
+2022-12-02 00:04:48,760 - logger_file -INFO - item add 
+2022-12-02 00:04:49,132 - logger_file -INFO - item count added
+2022-12-02 00:04:49,187 - logger_file -INFO - item added to cart
+2022-12-02 00:04:49,519 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:05:16,349 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:05:16,357 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:05:16,455 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:05:16,624 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:05:16,678 - logger_file -INFO - user clicked on login button
+2022-12-02 00:05:17,131 - logger_file -INFO - user logged in into account
+2022-12-02 00:05:17,188 - logger_file -INFO - select smart home
+2022-12-02 00:05:17,278 - logger_file -INFO - search some thing
+2022-12-02 00:05:17,333 - logger_file -INFO - click on search
+2022-12-02 00:05:17,940 - logger_file -INFO - item add 
+2022-12-02 00:05:18,503 - logger_file -INFO - item count added
+2022-12-02 00:05:18,558 - logger_file -INFO - item added to cart
+2022-12-02 00:05:18,574 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:05:18,634 - logger_file -INFO - place order
+2022-12-02 00:05:18,705 - logger_file -INFO - click on proceed
+2022-12-02 00:05:18,770 - logger_file -INFO - add Address
+2022-12-02 00:05:19,337 - logger_file -INFO - address information
+2022-12-02 00:05:19,407 - logger_file -INFO - Add a contry
+2022-12-02 00:11:51,615 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:11:51,624 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:11:51,726 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:11:51,893 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:11:51,949 - logger_file -INFO - user clicked on login button
+2022-12-02 00:11:52,647 - logger_file -INFO - user logged in into account
+2022-12-02 00:11:52,706 - logger_file -INFO - select smart home
+2022-12-02 00:11:52,792 - logger_file -INFO - search some thing
+2022-12-02 00:11:52,848 - logger_file -INFO - click on search
+2022-12-02 00:11:53,277 - logger_file -INFO - item add 
+2022-12-02 00:11:53,707 - logger_file -INFO - item count added
+2022-12-02 00:11:53,758 - logger_file -INFO - item added to cart
+2022-12-02 00:11:53,775 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:11:53,836 - logger_file -INFO - place order
+2022-12-02 00:11:53,911 - logger_file -INFO - click on proceed
+2022-12-02 00:11:53,983 - logger_file -INFO - add Address
+2022-12-02 00:11:54,560 - logger_file -INFO - address information
+2022-12-02 00:11:54,630 - logger_file -INFO - Add a contry
+2022-12-02 00:14:32,385 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:14:32,393 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:14:32,489 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:14:32,659 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:14:32,713 - logger_file -INFO - user clicked on login button
+2022-12-02 00:14:33,348 - logger_file -INFO - user logged in into account
+2022-12-02 00:14:33,405 - logger_file -INFO - select smart home
+2022-12-02 00:14:33,505 - logger_file -INFO - search some thing
+2022-12-02 00:14:33,559 - logger_file -INFO - click on search
+2022-12-02 00:14:33,981 - logger_file -INFO - item add 
+2022-12-02 00:14:34,423 - logger_file -INFO - item count added
+2022-12-02 00:14:34,479 - logger_file -INFO - item added to cart
+2022-12-02 00:14:34,496 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:14:34,558 - logger_file -INFO - place order
+2022-12-02 00:14:34,630 - logger_file -INFO - click on proceed
+2022-12-02 00:14:34,698 - logger_file -INFO - add Address
+2022-12-02 00:14:35,238 - logger_file -INFO - address information
+2022-12-02 00:14:35,308 - logger_file -INFO - Add a contry
+2022-12-02 00:15:23,842 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:15:23,850 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:15:23,948 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:15:24,119 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:15:24,176 - logger_file -INFO - user clicked on login button
+2022-12-02 00:15:24,689 - logger_file -INFO - user logged in into account
+2022-12-02 00:15:24,747 - logger_file -INFO - select smart home
+2022-12-02 00:15:24,845 - logger_file -INFO - search some thing
+2022-12-02 00:15:24,900 - logger_file -INFO - click on search
+2022-12-02 00:15:25,215 - logger_file -INFO - item add 
+2022-12-02 00:15:25,611 - logger_file -INFO - item count added
+2022-12-02 00:15:25,665 - logger_file -INFO - item added to cart
+2022-12-02 00:15:25,682 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:15:25,743 - logger_file -INFO - place order
+2022-12-02 00:15:25,821 - logger_file -INFO - click on proceed
+2022-12-02 00:15:25,891 - logger_file -INFO - add Address
+2022-12-02 00:15:26,433 - logger_file -INFO - address information
+2022-12-02 00:15:26,501 - logger_file -INFO - Add a contry
+2022-12-02 00:16:53,362 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:16:53,370 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:16:53,459 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:16:53,633 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:16:53,686 - logger_file -INFO - user clicked on login button
+2022-12-02 00:16:54,151 - logger_file -INFO - user logged in into account
+2022-12-02 00:16:54,207 - logger_file -INFO - select smart home
+2022-12-02 00:16:54,295 - logger_file -INFO - search some thing
+2022-12-02 00:16:54,350 - logger_file -INFO - click on search
+2022-12-02 00:16:54,707 - logger_file -INFO - item add 
+2022-12-02 00:16:55,198 - logger_file -INFO - item count added
+2022-12-02 00:16:55,250 - logger_file -INFO - item added to cart
+2022-12-02 00:16:55,266 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:16:55,331 - logger_file -INFO - place order
+2022-12-02 00:16:55,405 - logger_file -INFO - click on proceed
+2022-12-02 00:16:55,476 - logger_file -INFO - add Address
+2022-12-02 00:16:56,034 - logger_file -INFO - address information
+2022-12-02 00:16:56,102 - logger_file -INFO - Add a contry
+2022-12-02 00:23:21,100 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:23:21,107 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:23:21,201 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:23:21,372 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:23:21,427 - logger_file -INFO - user clicked on login button
+2022-12-02 00:23:21,871 - logger_file -INFO - user logged in into account
+2022-12-02 00:23:21,926 - logger_file -INFO - select smart home
+2022-12-02 00:23:22,040 - logger_file -INFO - search some thing
+2022-12-02 00:23:22,095 - logger_file -INFO - click on search
+2022-12-02 00:23:22,533 - logger_file -INFO - item add 
+2022-12-02 00:23:22,907 - logger_file -INFO - item count added
+2022-12-02 00:23:22,961 - logger_file -INFO - item added to cart
+2022-12-02 00:23:22,978 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:23:23,042 - logger_file -INFO - place order
+2022-12-02 00:23:23,114 - logger_file -INFO - click on proceed
+2022-12-02 00:23:23,183 - logger_file -INFO - add Address
+2022-12-02 00:23:23,721 - logger_file -INFO - address information
+2022-12-02 00:23:23,789 - logger_file -INFO - Add a contry
+2022-12-02 00:25:45,927 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:25:45,935 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:25:46,024 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:25:46,197 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:25:46,253 - logger_file -INFO - user clicked on login button
+2022-12-02 00:25:46,841 - logger_file -INFO - user logged in into account
+2022-12-02 00:25:46,896 - logger_file -INFO - select smart home
+2022-12-02 00:25:46,987 - logger_file -INFO - search some thing
+2022-12-02 00:25:47,042 - logger_file -INFO - click on search
+2022-12-02 00:25:47,417 - logger_file -INFO - item add 
+2022-12-02 00:25:47,787 - logger_file -INFO - item count added
+2022-12-02 00:25:47,839 - logger_file -INFO - item added to cart
+2022-12-02 00:25:47,857 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:25:47,919 - logger_file -INFO - place order
+2022-12-02 00:25:47,994 - logger_file -INFO - click on proceed
+2022-12-02 00:25:48,062 - logger_file -INFO - add Address
+2022-12-02 00:25:48,618 - logger_file -INFO - address information
+2022-12-02 00:25:48,688 - logger_file -INFO - Add a contry
+2022-12-02 00:30:48,996 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:30:49,003 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:30:49,099 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:30:49,267 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:30:49,324 - logger_file -INFO - user clicked on login button
+2022-12-02 00:30:49,788 - logger_file -INFO - user logged in into account
+2022-12-02 00:30:49,847 - logger_file -INFO - select smart home
+2022-12-02 00:30:49,938 - logger_file -INFO - search some thing
+2022-12-02 00:30:49,995 - logger_file -INFO - click on search
+2022-12-02 00:30:50,424 - logger_file -INFO - item add 
+2022-12-02 00:30:50,799 - logger_file -INFO - item count added
+2022-12-02 00:30:50,851 - logger_file -INFO - item added to cart
+2022-12-02 00:30:50,868 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:30:50,933 - logger_file -INFO - place order
+2022-12-02 00:30:51,002 - logger_file -INFO - click on proceed
+2022-12-02 00:30:51,071 - logger_file -INFO - add Address
+2022-12-02 00:30:51,617 - logger_file -INFO - address information
+2022-12-02 00:30:51,687 - logger_file -INFO - Add a contry
+2022-12-02 00:32:20,499 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:32:20,507 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:32:20,606 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:32:20,775 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:32:20,831 - logger_file -INFO - user clicked on login button
+2022-12-02 00:32:21,299 - logger_file -INFO - user logged in into account
+2022-12-02 00:32:21,355 - logger_file -INFO - select smart home
+2022-12-02 00:32:21,429 - logger_file -INFO - search some thing
+2022-12-02 00:32:21,483 - logger_file -INFO - click on search
+2022-12-02 00:32:21,850 - logger_file -INFO - secound item added
+2022-12-02 00:32:22,161 - logger_file -INFO - item count added
+2022-12-02 00:32:22,212 - logger_file -INFO - item added to cart
+2022-12-02 00:32:22,232 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:32:22,301 - logger_file -INFO - place order
+2022-12-02 00:32:22,376 - logger_file -INFO - click on proceed
+2022-12-02 00:37:24,516 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:37:24,525 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:37:24,619 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:37:24,785 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:37:24,840 - logger_file -INFO - user clicked on login button
+2022-12-02 00:37:25,351 - logger_file -INFO - user logged in into account
+2022-12-02 00:37:25,407 - logger_file -INFO - select smart home
+2022-12-02 00:37:25,477 - logger_file -INFO - search some thing
+2022-12-02 00:37:25,532 - logger_file -INFO - click on search
+2022-12-02 00:37:25,843 - logger_file -INFO - secound item added
+2022-12-02 00:37:26,215 - logger_file -INFO - item count added
+2022-12-02 00:37:26,272 - logger_file -INFO - item added to cart
+2022-12-02 00:37:26,288 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:37:26,346 - logger_file -INFO - place order
+2022-12-02 00:37:26,422 - logger_file -INFO - click on proceed
+2022-12-02 00:37:26,471 - logger_file -INFO - placeOrder
+2022-12-02 00:38:21,495 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:38:21,503 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:38:21,600 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:38:21,775 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:38:21,830 - logger_file -INFO - user clicked on login button
+2022-12-02 00:38:22,467 - logger_file -INFO - user logged in into account
+2022-12-02 00:38:22,523 - logger_file -INFO - select smart home
+2022-12-02 00:38:22,596 - logger_file -INFO - search some thing
+2022-12-02 00:38:22,652 - logger_file -INFO - click on search
+2022-12-02 00:38:23,026 - logger_file -INFO - secound item added
+2022-12-02 00:38:23,455 - logger_file -INFO - item count added
+2022-12-02 00:38:23,510 - logger_file -INFO - item added to cart
+2022-12-02 00:38:23,845 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:38:23,907 - logger_file -INFO - place order
+2022-12-02 00:38:23,982 - logger_file -INFO - click on proceed
+2022-12-02 00:38:24,034 - logger_file -INFO - placeOrder
+2022-12-02 00:41:37,417 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:41:37,425 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:41:37,516 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:41:37,692 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:41:37,747 - logger_file -INFO - user clicked on login button
+2022-12-02 00:41:38,199 - logger_file -INFO - user logged in into account
+2022-12-02 00:41:38,257 - logger_file -INFO - select smart home
+2022-12-02 00:41:38,331 - logger_file -INFO - search some thing
+2022-12-02 00:41:38,385 - logger_file -INFO - click on search
+2022-12-02 00:41:38,804 - logger_file -INFO - secound item added
+2022-12-02 00:41:39,180 - logger_file -INFO - item count added
+2022-12-02 00:41:39,232 - logger_file -INFO - item added to cart
+2022-12-02 00:41:39,499 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:41:39,560 - logger_file -INFO - place order
+2022-12-02 00:41:39,632 - logger_file -INFO - click on proceed
+2022-12-02 00:41:39,682 - logger_file -INFO - placeOrder
+2022-12-02 00:42:54,153 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:42:54,161 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:42:54,253 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:42:54,418 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:42:54,473 - logger_file -INFO - user clicked on login button
+2022-12-02 00:42:55,242 - logger_file -INFO - user logged in into account
+2022-12-02 00:42:55,297 - logger_file -INFO - select smart home
+2022-12-02 00:42:55,369 - logger_file -INFO - search some thing
+2022-12-02 00:42:55,422 - logger_file -INFO - click on search
+2022-12-02 00:42:55,788 - logger_file -INFO - secound item added
+2022-12-02 00:42:56,115 - logger_file -INFO - item count added
+2022-12-02 00:42:56,170 - logger_file -INFO - item added to cart
+2022-12-02 00:42:56,569 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:42:56,637 - logger_file -INFO - place order
+2022-12-02 00:42:56,715 - logger_file -INFO - click on proceed
+2022-12-02 00:42:56,766 - logger_file -INFO - placeOrder
+2022-12-02 00:44:26,935 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:44:26,943 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:44:27,035 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:44:27,213 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:44:27,269 - logger_file -INFO - user clicked on login button
+2022-12-02 00:44:27,787 - logger_file -INFO - user logged in into account
+2022-12-02 00:44:27,842 - logger_file -INFO - select smart home
+2022-12-02 00:44:27,917 - logger_file -INFO - search some thing
+2022-12-02 00:44:27,972 - logger_file -INFO - click on search
+2022-12-02 00:44:28,406 - logger_file -INFO - secound item added
+2022-12-02 00:44:28,705 - logger_file -INFO - item count added
+2022-12-02 00:44:28,759 - logger_file -INFO - item added to cart
+2022-12-02 00:44:29,026 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:44:29,106 - logger_file -INFO - place order
+2022-12-02 00:44:29,178 - logger_file -INFO - click on proceed
+2022-12-02 00:44:29,229 - logger_file -INFO - placeOrder
+2022-12-02 00:46:51,793 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:46:51,801 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:46:51,893 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:46:52,070 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:46:52,127 - logger_file -INFO - user clicked on login button
+2022-12-02 00:46:52,509 - logger_file -INFO - user logged in into account
+2022-12-02 00:46:52,564 - logger_file -INFO - select smart home
+2022-12-02 00:46:52,670 - logger_file -INFO - search some thing
+2022-12-02 00:46:52,725 - logger_file -INFO - click on search
+2022-12-02 00:46:53,158 - logger_file -INFO - item add 
+2022-12-02 00:46:53,542 - logger_file -INFO - item count added
+2022-12-02 00:46:53,598 - logger_file -INFO - item added to cart
+2022-12-02 00:46:53,870 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:46:53,933 - logger_file -INFO - place order
+2022-12-02 00:46:54,003 - logger_file -INFO - click on proceed
+2022-12-02 00:46:54,071 - logger_file -INFO - add Address
+2022-12-02 00:46:54,624 - logger_file -INFO - address information
+2022-12-02 00:46:54,692 - logger_file -INFO - Add a contry
+2022-12-02 00:52:08,385 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:52:08,392 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:52:08,486 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:52:08,656 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:52:08,714 - logger_file -INFO - user clicked on login button
+2022-12-02 00:52:09,488 - logger_file -INFO - user logged in into account
+2022-12-02 00:52:09,544 - logger_file -INFO - select smart home
+2022-12-02 00:52:09,633 - logger_file -INFO - search some thing
+2022-12-02 00:52:09,686 - logger_file -INFO - click on search
+2022-12-02 00:52:10,054 - logger_file -INFO - item add 
+2022-12-02 00:52:10,428 - logger_file -INFO - item count added
+2022-12-02 00:52:10,488 - logger_file -INFO - item added to cart
+2022-12-02 00:52:10,504 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:52:10,563 - logger_file -INFO - place order
+2022-12-02 00:52:10,634 - logger_file -INFO - click on proceed
+2022-12-02 00:52:10,702 - logger_file -INFO - add Address
+2022-12-02 00:52:11,266 - logger_file -INFO - address information
+2022-12-02 00:52:11,338 - logger_file -INFO - Add a contry
+2022-12-02 00:56:27,637 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:56:27,644 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:56:27,735 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:56:27,901 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:56:27,957 - logger_file -INFO - user clicked on login button
+2022-12-02 00:56:28,412 - logger_file -INFO - user logged in into account
+2022-12-02 00:56:28,467 - logger_file -INFO - select smart home
+2022-12-02 00:56:28,568 - logger_file -INFO - search some thing
+2022-12-02 00:56:28,622 - logger_file -INFO - click on search
+2022-12-02 00:56:28,921 - logger_file -INFO - item add 
+2022-12-02 00:56:29,319 - logger_file -INFO - item count added
+2022-12-02 00:56:29,373 - logger_file -INFO - item added to cart
+2022-12-02 00:56:29,389 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:56:29,451 - logger_file -INFO - place order
+2022-12-02 00:56:29,522 - logger_file -INFO - click on proceed
+2022-12-02 00:56:29,590 - logger_file -INFO - add Address
+2022-12-02 00:57:42,415 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:57:42,422 - logger_file -INFO - React App is equal to React App
+2022-12-02 00:57:42,523 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 00:57:42,686 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 00:57:42,744 - logger_file -INFO - user clicked on login button
+2022-12-02 00:57:43,455 - logger_file -INFO - user logged in into account
+2022-12-02 00:57:43,511 - logger_file -INFO - select smart home
+2022-12-02 00:57:43,614 - logger_file -INFO - search some thing
+2022-12-02 00:57:43,669 - logger_file -INFO - click on search
+2022-12-02 00:57:44,087 - logger_file -INFO - item add 
+2022-12-02 00:57:44,452 - logger_file -INFO - item count added
+2022-12-02 00:57:44,502 - logger_file -INFO - item added to cart
+2022-12-02 00:57:44,518 - logger_file -INFO - item added to cart successfully
+2022-12-02 00:57:44,577 - logger_file -INFO - place order
+2022-12-02 00:57:44,656 - logger_file -INFO - click on proceed
+2022-12-02 00:57:44,724 - logger_file -INFO - add Address
+2022-12-02 00:57:45,265 - logger_file -INFO - address information
+2022-12-02 00:57:45,334 - logger_file -INFO - Add a contry
+2022-12-02 01:01:38,627 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:01:38,635 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:01:38,727 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:01:38,899 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:01:38,953 - logger_file -INFO - user clicked on login button
+2022-12-02 01:01:39,406 - logger_file -INFO - user logged in into account
+2022-12-02 01:01:39,461 - logger_file -INFO - select smart home
+2022-12-02 01:01:39,559 - logger_file -INFO - search some thing
+2022-12-02 01:01:39,615 - logger_file -INFO - click on search
+2022-12-02 01:01:40,047 - logger_file -INFO - item add 
+2022-12-02 01:01:40,473 - logger_file -INFO - item count added
+2022-12-02 01:01:40,525 - logger_file -INFO - item added to cart
+2022-12-02 01:01:40,542 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:01:40,604 - logger_file -INFO - place order
+2022-12-02 01:01:40,677 - logger_file -INFO - click on proceed
+2022-12-02 01:01:40,746 - logger_file -INFO - add Address
+2022-12-02 01:01:41,304 - logger_file -INFO - address information
+2022-12-02 01:01:41,372 - logger_file -INFO - Add a contry
+2022-12-02 01:03:29,250 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:03:29,257 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:03:29,347 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:03:29,520 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:03:29,576 - logger_file -INFO - user clicked on login button
+2022-12-02 01:03:30,082 - logger_file -INFO - user logged in into account
+2022-12-02 01:03:30,140 - logger_file -INFO - select smart home
+2022-12-02 01:03:30,234 - logger_file -INFO - search some thing
+2022-12-02 01:03:30,289 - logger_file -INFO - click on search
+2022-12-02 01:03:30,714 - logger_file -INFO - item add 
+2022-12-02 01:03:31,082 - logger_file -INFO - item count added
+2022-12-02 01:03:31,131 - logger_file -INFO - item added to cart
+2022-12-02 01:03:31,147 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:03:31,209 - logger_file -INFO - place order
+2022-12-02 01:03:31,284 - logger_file -INFO - click on proceed
+2022-12-02 01:03:31,350 - logger_file -INFO - add Address
+2022-12-02 01:03:31,914 - logger_file -INFO - address information
+2022-12-02 01:03:31,979 - logger_file -INFO - Add a contry
+2022-12-02 01:07:14,340 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:07:14,348 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:07:14,443 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:07:14,615 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:07:14,674 - logger_file -INFO - user clicked on login button
+2022-12-02 01:07:15,330 - logger_file -INFO - user logged in into account
+2022-12-02 01:07:15,386 - logger_file -INFO - select smart home
+2022-12-02 01:07:15,473 - logger_file -INFO - search some thing
+2022-12-02 01:07:15,529 - logger_file -INFO - click on search
+2022-12-02 01:07:15,908 - logger_file -INFO - item add 
+2022-12-02 01:07:16,338 - logger_file -INFO - item count added
+2022-12-02 01:07:16,390 - logger_file -INFO - item added to cart
+2022-12-02 01:07:16,406 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:07:16,464 - logger_file -INFO - place order
+2022-12-02 01:07:16,541 - logger_file -INFO - click on proceed
+2022-12-02 01:07:16,607 - logger_file -INFO - add Address
+2022-12-02 01:07:17,159 - logger_file -INFO - address information
+2022-12-02 01:07:17,228 - logger_file -INFO - Add a contry
+2022-12-02 01:10:12,514 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:10:12,521 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:10:12,616 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:10:12,788 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:10:12,841 - logger_file -INFO - user clicked on login button
+2022-12-02 01:10:13,665 - logger_file -INFO - user logged in into account
+2022-12-02 01:10:13,719 - logger_file -INFO - select smart home
+2022-12-02 01:10:13,830 - logger_file -INFO - search some thing
+2022-12-02 01:10:13,882 - logger_file -INFO - click on search
+2022-12-02 01:10:14,303 - logger_file -INFO - item add 
+2022-12-02 01:10:14,812 - logger_file -INFO - item count added
+2022-12-02 01:10:14,867 - logger_file -INFO - item added to cart
+2022-12-02 01:10:14,883 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:10:14,944 - logger_file -INFO - place order
+2022-12-02 01:10:15,026 - logger_file -INFO - click on proceed
+2022-12-02 01:10:15,101 - logger_file -INFO - add Address
+2022-12-02 01:10:15,681 - logger_file -INFO - address information
+2022-12-02 01:10:15,753 - logger_file -INFO - Add a contry
+2022-12-02 01:10:16,078 - logger_file -INFO - click on new payment
+2022-12-02 01:10:16,422 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-02 01:10:16,484 - logger_file -INFO - user submit the cart information
+2022-12-02 01:10:16,787 - logger_file -INFO - placeOrder
+2022-12-02 01:11:12,677 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:11:12,684 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:11:12,778 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:11:12,947 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:11:13,002 - logger_file -INFO - user clicked on login button
+2022-12-02 01:11:13,509 - logger_file -INFO - user logged in into account
+2022-12-02 01:11:13,565 - logger_file -INFO - select smart home
+2022-12-02 01:11:13,658 - logger_file -INFO - search some thing
+2022-12-02 01:11:13,712 - logger_file -INFO - click on search
+2022-12-02 01:11:14,075 - logger_file -INFO - item add 
+2022-12-02 01:11:14,469 - logger_file -INFO - item count added
+2022-12-02 01:11:14,524 - logger_file -INFO - item added to cart
+2022-12-02 01:11:14,860 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:11:14,923 - logger_file -INFO - place order
+2022-12-02 01:11:14,999 - logger_file -INFO - click on proceed
+2022-12-02 01:11:15,064 - logger_file -INFO - add Address
+2022-12-02 01:11:15,600 - logger_file -INFO - address information
+2022-12-02 01:11:15,672 - logger_file -INFO - Add a contry
+2022-12-02 01:11:16,057 - logger_file -INFO - click on new payment
+2022-12-02 01:11:16,356 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-02 01:11:16,411 - logger_file -INFO - user submit the cart information
+2022-12-02 01:11:49,625 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:11:49,711 - logger_file -INFO - click on all section
+2022-12-02 01:11:54,750 - logger_file -INFO - options Electronics, Computers, Smart Home, Sports and Automative are present
+2022-12-02 01:11:56,979 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:11:57,060 - logger_file -INFO - click on all section
+2022-12-02 01:12:02,107 - logger_file -INFO - user is on Electronics section
+2022-12-02 01:12:02,157 - logger_file -INFO - Video Games options are present in departmentTV & Video
+2022-12-02 01:12:04,293 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:12:04,361 - logger_file -INFO - click on all section
+2022-12-02 01:12:09,400 - logger_file -INFO - user is on Computers section
+2022-12-02 01:12:09,447 - logger_file -INFO - Accessories options are present in departmentNetworking
+2022-12-02 01:12:11,642 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:12:11,707 - logger_file -INFO - click on all section
+2022-12-02 01:12:19,060 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:12:19,122 - logger_file -INFO - click on all section
+2022-12-02 01:12:24,158 - logger_file -INFO - user is on Sports section
+2022-12-02 01:12:24,204 - logger_file -INFO - Athletic Clothing options are present in departmentExercise & Fitness
+2022-12-02 01:12:26,421 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:12:26,490 - logger_file -INFO - click on all section
+2022-12-02 01:12:47,831 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:12:47,839 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:12:47,934 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:12:48,100 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:12:48,155 - logger_file -INFO - user clicked on login button
+2022-12-02 01:12:48,664 - logger_file -INFO - user logged in into account
+2022-12-02 01:12:48,718 - logger_file -INFO - select smart home
+2022-12-02 01:12:48,809 - logger_file -INFO - search some thing
+2022-12-02 01:12:48,865 - logger_file -INFO - click on search
+2022-12-02 01:12:49,284 - logger_file -INFO - item add 
+2022-12-02 01:12:49,650 - logger_file -INFO - item count added
+2022-12-02 01:12:49,703 - logger_file -INFO - item added to cart
+2022-12-02 01:12:49,720 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:12:49,779 - logger_file -INFO - place order
+2022-12-02 01:12:49,853 - logger_file -INFO - click on proceed
+2022-12-02 01:12:49,922 - logger_file -INFO - add Address
+2022-12-02 01:12:50,458 - logger_file -INFO - address information
+2022-12-02 01:12:50,527 - logger_file -INFO - Add a contry
+2022-12-02 01:12:50,863 - logger_file -INFO - click on new payment
+2022-12-02 01:12:51,157 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-02 01:12:51,211 - logger_file -INFO - user submit the cart information
+2022-12-02 01:12:51,455 - logger_file -INFO - placeOrder
+2022-12-02 01:15:44,043 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:15:44,049 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:15:44,146 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:15:44,310 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:15:44,364 - logger_file -INFO - user clicked on login button
+2022-12-02 01:15:44,885 - logger_file -INFO - user logged in into account
+2022-12-02 01:15:44,940 - logger_file -INFO - select smart home
+2022-12-02 01:15:45,025 - logger_file -INFO - search some thing
+2022-12-02 01:15:45,092 - logger_file -INFO - click on search
+2022-12-02 01:15:45,459 - logger_file -INFO - item add 
+2022-12-02 01:15:45,842 - logger_file -INFO - item count added
+2022-12-02 01:15:45,898 - logger_file -INFO - item added to cart
+2022-12-02 01:15:46,173 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:15:46,234 - logger_file -INFO - place order
+2022-12-02 01:15:46,309 - logger_file -INFO - click on proceed
+2022-12-02 01:15:46,377 - logger_file -INFO - add Address
+2022-12-02 01:15:46,929 - logger_file -INFO - address information
+2022-12-02 01:15:46,995 - logger_file -INFO - Add a contry
+2022-12-02 01:15:47,257 - logger_file -INFO - click on new payment
+2022-12-02 01:15:47,533 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-02 01:15:47,602 - logger_file -INFO - user submit the cart information
+2022-12-02 01:16:15,603 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:16:15,610 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:16:15,707 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:16:15,879 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:16:15,933 - logger_file -INFO - user clicked on login button
+2022-12-02 01:16:16,319 - logger_file -INFO - user logged in into account
+2022-12-02 01:16:16,375 - logger_file -INFO - select smart home
+2022-12-02 01:16:16,465 - logger_file -INFO - search some thing
+2022-12-02 01:16:16,522 - logger_file -INFO - click on search
+2022-12-02 01:16:16,949 - logger_file -INFO - item add 
+2022-12-02 01:16:17,382 - logger_file -INFO - item count added
+2022-12-02 01:16:17,434 - logger_file -INFO - item added to cart
+2022-12-02 01:16:17,452 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:16:17,510 - logger_file -INFO - place order
+2022-12-02 01:16:17,588 - logger_file -INFO - click on proceed
+2022-12-02 01:16:17,662 - logger_file -INFO - add Address
+2022-12-02 01:16:18,225 - logger_file -INFO - address information
+2022-12-02 01:16:18,292 - logger_file -INFO - Add a contry
+2022-12-02 01:16:18,616 - logger_file -INFO - click on new payment
+2022-12-02 01:16:18,916 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-02 01:16:18,973 - logger_file -INFO - user submit the cart information
+2022-12-02 01:16:19,344 - logger_file -INFO - placeOrder
+2022-12-02 01:20:53,155 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:20:53,165 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:20:53,259 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:20:53,427 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:20:53,482 - logger_file -INFO - user clicked on login button
+2022-12-02 01:20:53,990 - logger_file -INFO - user logged in into account
+2022-12-02 01:20:54,043 - logger_file -INFO - select smart home
+2022-12-02 01:20:54,137 - logger_file -INFO - search some thing
+2022-12-02 01:20:54,194 - logger_file -INFO - click on search
+2022-12-02 01:20:54,557 - logger_file -INFO - item add 
+2022-12-02 01:20:54,949 - logger_file -INFO - item count added
+2022-12-02 01:20:55,006 - logger_file -INFO - item added to cart
+2022-12-02 01:20:55,342 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:20:55,406 - logger_file -INFO - place order
+2022-12-02 01:20:55,488 - logger_file -INFO - click on proceed
+2022-12-02 01:20:55,557 - logger_file -INFO - add Address
+2022-12-02 01:20:56,109 - logger_file -INFO - address information
+2022-12-02 01:20:56,181 - logger_file -INFO - Add a contry
+2022-12-02 01:20:56,574 - logger_file -INFO - click on new payment
+2022-12-02 01:20:56,867 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-02 01:20:56,922 - logger_file -INFO - user submit the cart information
+2022-12-02 01:21:25,451 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:21:25,458 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:21:25,552 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:21:25,727 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:21:25,784 - logger_file -INFO - user clicked on login button
+2022-12-02 01:21:26,165 - logger_file -INFO - user logged in into account
+2022-12-02 01:21:26,219 - logger_file -INFO - select smart home
+2022-12-02 01:21:26,314 - logger_file -INFO - search some thing
+2022-12-02 01:21:26,365 - logger_file -INFO - click on search
+2022-12-02 01:21:26,858 - logger_file -INFO - item add 
+2022-12-02 01:21:27,231 - logger_file -INFO - item count added
+2022-12-02 01:21:27,287 - logger_file -INFO - item added to cart
+2022-12-02 01:21:27,303 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:21:27,362 - logger_file -INFO - place order
+2022-12-02 01:21:27,439 - logger_file -INFO - click on proceed
+2022-12-02 01:21:27,509 - logger_file -INFO - add Address
+2022-12-02 01:21:28,063 - logger_file -INFO - address information
+2022-12-02 01:21:28,129 - logger_file -INFO - Add a contry
+2022-12-02 01:21:28,397 - logger_file -INFO - click on new payment
+2022-12-02 01:21:28,683 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-02 01:21:28,741 - logger_file -INFO - user submit the cart information
+2022-12-02 01:21:29,112 - logger_file -INFO - placeOrder
+2022-12-02 01:23:14,269 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:23:14,277 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:23:14,369 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:23:14,540 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:23:14,594 - logger_file -INFO - user clicked on login button
+2022-12-02 01:23:15,195 - logger_file -INFO - user logged in into account
+2022-12-02 01:23:15,251 - logger_file -INFO - select smart home
+2022-12-02 01:23:15,338 - logger_file -INFO - search some thing
+2022-12-02 01:23:15,394 - logger_file -INFO - click on search
+2022-12-02 01:23:15,820 - logger_file -INFO - item add 
+2022-12-02 01:23:16,248 - logger_file -INFO - item count added
+2022-12-02 01:23:16,297 - logger_file -INFO - item added to cart
+2022-12-02 01:23:16,633 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:23:16,692 - logger_file -INFO - place order
+2022-12-02 01:23:16,772 - logger_file -INFO - click on proceed
+2022-12-02 01:23:16,843 - logger_file -INFO - add Address
+2022-12-02 01:23:17,393 - logger_file -INFO - address information
+2022-12-02 01:23:17,462 - logger_file -INFO - Add a contry
+2022-12-02 01:23:17,845 - logger_file -INFO - click on new payment
+2022-12-02 01:23:18,129 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-02 01:23:18,184 - logger_file -INFO - user submit the cart information
+2022-12-02 01:23:45,673 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:23:45,682 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:23:45,788 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:23:45,978 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:23:46,044 - logger_file -INFO - user clicked on login button
+2022-12-02 01:23:46,448 - logger_file -INFO - user logged in into account
+2022-12-02 01:23:46,501 - logger_file -INFO - select smart home
+2022-12-02 01:23:46,596 - logger_file -INFO - search some thing
+2022-12-02 01:23:46,655 - logger_file -INFO - click on search
+2022-12-02 01:23:47,147 - logger_file -INFO - item add 
+2022-12-02 01:23:47,662 - logger_file -INFO - item count added
+2022-12-02 01:23:47,718 - logger_file -INFO - item added to cart
+2022-12-02 01:23:47,736 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:23:47,795 - logger_file -INFO - place order
+2022-12-02 01:23:47,871 - logger_file -INFO - click on proceed
+2022-12-02 01:23:47,939 - logger_file -INFO - add Address
+2022-12-02 01:23:48,494 - logger_file -INFO - address information
+2022-12-02 01:23:48,561 - logger_file -INFO - Add a contry
+2022-12-02 01:23:48,870 - logger_file -INFO - click on new payment
+2022-12-02 01:23:49,181 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-02 01:23:49,236 - logger_file -INFO - user submit the cart information
+2022-12-02 01:23:49,533 - logger_file -INFO - placeOrder
+2022-12-02 01:29:00,648 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:29:00,655 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:29:00,749 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:29:00,921 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:29:00,977 - logger_file -INFO - user clicked on login button
+2022-12-02 01:29:01,435 - logger_file -INFO - user logged in into account
+2022-12-02 01:29:01,490 - logger_file -INFO - select smart home
+2022-12-02 01:29:01,577 - logger_file -INFO - search some thing
+2022-12-02 01:29:01,631 - logger_file -INFO - click on search
+2022-12-02 01:29:01,991 - logger_file -INFO - item add 
+2022-12-02 01:29:02,368 - logger_file -INFO - item count added
+2022-12-02 01:29:02,423 - logger_file -INFO - item added to cart
+2022-12-02 01:29:02,776 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:29:02,844 - logger_file -INFO - place order
+2022-12-02 01:29:02,917 - logger_file -INFO - click on proceed
+2022-12-02 01:29:03,000 - logger_file -INFO - add Address
+2022-12-02 01:29:03,537 - logger_file -INFO - address information
+2022-12-02 01:29:03,603 - logger_file -INFO - Add a contry
+2022-12-02 01:29:28,999 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:29:29,008 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:29:29,101 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:29:29,270 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:29:29,325 - logger_file -INFO - user clicked on login button
+2022-12-02 01:29:29,718 - logger_file -INFO - user logged in into account
+2022-12-02 01:29:29,773 - logger_file -INFO - select smart home
+2022-12-02 01:29:29,864 - logger_file -INFO - search some thing
+2022-12-02 01:29:29,919 - logger_file -INFO - click on search
+2022-12-02 01:29:30,347 - logger_file -INFO - item add 
+2022-12-02 01:29:30,729 - logger_file -INFO - item count added
+2022-12-02 01:29:30,786 - logger_file -INFO - item added to cart
+2022-12-02 01:29:30,804 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:29:30,866 - logger_file -INFO - place order
+2022-12-02 01:29:30,948 - logger_file -INFO - click on proceed
+2022-12-02 01:29:31,017 - logger_file -INFO - add Address
+2022-12-02 01:29:31,603 - logger_file -INFO - address information
+2022-12-02 01:29:31,680 - logger_file -INFO - Add a contry
+2022-12-02 01:31:09,013 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:31:09,021 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:31:09,112 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:31:09,279 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:31:09,335 - logger_file -INFO - user clicked on login button
+2022-12-02 01:31:09,860 - logger_file -INFO - user logged in into account
+2022-12-02 01:31:09,924 - logger_file -INFO - select smart home
+2022-12-02 01:31:10,010 - logger_file -INFO - search some thing
+2022-12-02 01:31:10,065 - logger_file -INFO - click on search
+2022-12-02 01:31:10,359 - logger_file -INFO - item add 
+2022-12-02 01:31:10,673 - logger_file -INFO - item count added
+2022-12-02 01:31:10,729 - logger_file -INFO - item added to cart
+2022-12-02 01:31:10,747 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:31:10,808 - logger_file -INFO - place order
+2022-12-02 01:31:10,893 - logger_file -INFO - click on proceed
+2022-12-02 01:31:10,969 - logger_file -INFO - add Address
+2022-12-02 01:31:11,534 - logger_file -INFO - address information
+2022-12-02 01:31:11,603 - logger_file -INFO - Add a contry
+2022-12-02 01:33:32,215 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:33:32,222 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:33:32,315 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:33:32,489 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:33:32,546 - logger_file -INFO - user clicked on login button
+2022-12-02 01:33:33,065 - logger_file -INFO - user logged in into account
+2022-12-02 01:33:33,119 - logger_file -INFO - select smart home
+2022-12-02 01:33:33,211 - logger_file -INFO - search some thing
+2022-12-02 01:33:33,270 - logger_file -INFO - click on search
+2022-12-02 01:33:33,648 - logger_file -INFO - item add 
+2022-12-02 01:33:34,081 - logger_file -INFO - item count added
+2022-12-02 01:33:34,131 - logger_file -INFO - item added to cart
+2022-12-02 01:33:34,148 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:33:34,208 - logger_file -INFO - place order
+2022-12-02 01:33:34,279 - logger_file -INFO - click on proceed
+2022-12-02 01:33:34,346 - logger_file -INFO - add Address
+2022-12-02 01:33:34,882 - logger_file -INFO - address information
+2022-12-02 01:33:34,948 - logger_file -INFO - Add a contry
+2022-12-02 01:37:45,741 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:37:45,749 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:37:45,840 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:37:46,008 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:37:46,065 - logger_file -INFO - user clicked on login button
+2022-12-02 01:37:46,585 - logger_file -INFO - user logged in into account
+2022-12-02 01:37:46,639 - logger_file -INFO - select smart home
+2022-12-02 01:37:46,728 - logger_file -INFO - search some thing
+2022-12-02 01:37:46,782 - logger_file -INFO - click on search
+2022-12-02 01:37:47,146 - logger_file -INFO - item add 
+2022-12-02 01:37:47,573 - logger_file -INFO - item count added
+2022-12-02 01:37:47,630 - logger_file -INFO - item added to cart
+2022-12-02 01:37:47,992 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:37:48,059 - logger_file -INFO - place order
+2022-12-02 01:37:48,131 - logger_file -INFO - click on proceed
+2022-12-02 01:37:48,199 - logger_file -INFO - add Address
+2022-12-02 01:37:48,732 - logger_file -INFO - address information
+2022-12-02 01:37:48,802 - logger_file -INFO - Add a contry
+2022-12-02 01:43:41,937 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:43:41,946 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:43:42,041 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:43:42,206 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:43:42,261 - logger_file -INFO - user clicked on login button
+2022-12-02 01:43:42,797 - logger_file -INFO - user logged in into account
+2022-12-02 01:43:42,852 - logger_file -INFO - select smart home
+2022-12-02 01:43:42,939 - logger_file -INFO - search some thing
+2022-12-02 01:43:42,993 - logger_file -INFO - click on search
+2022-12-02 01:43:43,301 - logger_file -INFO - item add 
+2022-12-02 01:43:43,692 - logger_file -INFO - item count added
+2022-12-02 01:43:43,745 - logger_file -INFO - item added to cart
+2022-12-02 01:43:43,761 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:43:43,822 - logger_file -INFO - place order
+2022-12-02 01:43:43,893 - logger_file -INFO - click on proceed
+2022-12-02 01:43:43,960 - logger_file -INFO - add Address
+2022-12-02 01:43:44,508 - logger_file -INFO - address information
+2022-12-02 01:43:44,576 - logger_file -INFO - Add a contry
+2022-12-02 01:45:04,164 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:45:04,171 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:45:04,267 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:45:04,446 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:45:04,504 - logger_file -INFO - user clicked on login button
+2022-12-02 01:45:05,025 - logger_file -INFO - user logged in into account
+2022-12-02 01:45:05,082 - logger_file -INFO - select smart home
+2022-12-02 01:45:05,176 - logger_file -INFO - search some thing
+2022-12-02 01:45:05,239 - logger_file -INFO - click on search
+2022-12-02 01:45:05,595 - logger_file -INFO - item add 
+2022-12-02 01:45:05,914 - logger_file -INFO - item count added
+2022-12-02 01:45:05,970 - logger_file -INFO - item added to cart
+2022-12-02 01:45:05,987 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:45:06,048 - logger_file -INFO - place order
+2022-12-02 01:45:06,121 - logger_file -INFO - click on proceed
+2022-12-02 01:45:06,192 - logger_file -INFO - add Address
+2022-12-02 01:45:06,765 - logger_file -INFO - address information
+2022-12-02 01:45:06,833 - logger_file -INFO - Add a contry
+2022-12-02 01:46:26,536 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:46:26,544 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:46:26,639 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:46:26,819 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:46:26,872 - logger_file -INFO - user clicked on login button
+2022-12-02 01:46:27,264 - logger_file -INFO - user logged in into account
+2022-12-02 01:46:27,319 - logger_file -INFO - select smart home
+2022-12-02 01:46:27,417 - logger_file -INFO - search some thing
+2022-12-02 01:46:27,471 - logger_file -INFO - click on search
+2022-12-02 01:46:27,902 - logger_file -INFO - item add 
+2022-12-02 01:46:28,337 - logger_file -INFO - item count added
+2022-12-02 01:46:28,397 - logger_file -INFO - item added to cart
+2022-12-02 01:46:28,413 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:46:28,474 - logger_file -INFO - place order
+2022-12-02 01:46:28,545 - logger_file -INFO - click on proceed
+2022-12-02 01:46:28,613 - logger_file -INFO - add Address
+2022-12-02 01:46:29,170 - logger_file -INFO - address information
+2022-12-02 01:46:29,239 - logger_file -INFO - Add a contry
+2022-12-02 01:49:51,301 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:49:51,309 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:49:51,418 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:49:51,595 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:49:51,649 - logger_file -INFO - user clicked on login button
+2022-12-02 01:49:52,168 - logger_file -INFO - user logged in into account
+2022-12-02 01:49:52,223 - logger_file -INFO - select smart home
+2022-12-02 01:49:52,311 - logger_file -INFO - search some thing
+2022-12-02 01:49:52,366 - logger_file -INFO - click on search
+2022-12-02 01:49:52,721 - logger_file -INFO - item add 
+2022-12-02 01:49:53,345 - logger_file -INFO - item count added
+2022-12-02 01:49:53,396 - logger_file -INFO - item added to cart
+2022-12-02 01:49:53,412 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:49:53,474 - logger_file -INFO - place order
+2022-12-02 01:49:53,546 - logger_file -INFO - click on proceed
+2022-12-02 01:49:53,612 - logger_file -INFO - add Address
+2022-12-02 01:49:54,152 - logger_file -INFO - address information
+2022-12-02 01:49:54,232 - logger_file -INFO - Add a contry
+2022-12-02 01:56:24,752 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:56:24,760 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:56:24,852 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:56:25,016 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:56:25,072 - logger_file -INFO - user clicked on login button
+2022-12-02 01:56:25,603 - logger_file -INFO - user logged in into account
+2022-12-02 01:56:25,656 - logger_file -INFO - select smart home
+2022-12-02 01:56:25,746 - logger_file -INFO - search some thing
+2022-12-02 01:56:25,800 - logger_file -INFO - click on search
+2022-12-02 01:56:26,166 - logger_file -INFO - item add 
+2022-12-02 01:56:26,498 - logger_file -INFO - item count added
+2022-12-02 01:56:26,553 - logger_file -INFO - item added to cart
+2022-12-02 01:56:26,569 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:56:26,630 - logger_file -INFO - place order
+2022-12-02 01:56:26,699 - logger_file -INFO - click on proceed
+2022-12-02 01:56:26,769 - logger_file -INFO - add Address
+2022-12-02 01:56:27,321 - logger_file -INFO - address information
+2022-12-02 01:56:27,390 - logger_file -INFO - Add a contry
+2022-12-02 01:57:37,269 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:57:37,277 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:57:37,377 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:57:37,546 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:57:37,599 - logger_file -INFO - user clicked on login button
+2022-12-02 01:57:38,178 - logger_file -INFO - user logged in into account
+2022-12-02 01:57:38,235 - logger_file -INFO - select smart home
+2022-12-02 01:57:38,326 - logger_file -INFO - search some thing
+2022-12-02 01:57:38,382 - logger_file -INFO - click on search
+2022-12-02 01:57:38,744 - logger_file -INFO - item add 
+2022-12-02 01:57:39,120 - logger_file -INFO - item count added
+2022-12-02 01:57:39,174 - logger_file -INFO - item added to cart
+2022-12-02 01:57:39,191 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:57:39,250 - logger_file -INFO - place order
+2022-12-02 01:57:39,316 - logger_file -INFO - click on proceed
+2022-12-02 01:57:39,386 - logger_file -INFO - add Address
+2022-12-02 01:57:39,937 - logger_file -INFO - address information
+2022-12-02 01:57:40,006 - logger_file -INFO - Add a contry
+2022-12-02 01:58:59,323 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:58:59,331 - logger_file -INFO - React App is equal to React App
+2022-12-02 01:58:59,428 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 01:58:59,593 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 01:58:59,648 - logger_file -INFO - user clicked on login button
+2022-12-02 01:59:00,236 - logger_file -INFO - user logged in into account
+2022-12-02 01:59:00,291 - logger_file -INFO - select smart home
+2022-12-02 01:59:00,385 - logger_file -INFO - search some thing
+2022-12-02 01:59:00,439 - logger_file -INFO - click on search
+2022-12-02 01:59:00,815 - logger_file -INFO - item add 
+2022-12-02 01:59:01,252 - logger_file -INFO - item count added
+2022-12-02 01:59:01,307 - logger_file -INFO - item added to cart
+2022-12-02 01:59:01,325 - logger_file -INFO - item added to cart successfully
+2022-12-02 01:59:01,383 - logger_file -INFO - place order
+2022-12-02 01:59:01,454 - logger_file -INFO - click on proceed
+2022-12-02 01:59:01,523 - logger_file -INFO - add Address
+2022-12-02 01:59:02,083 - logger_file -INFO - address information
+2022-12-02 01:59:02,149 - logger_file -INFO - Add a contry
+2022-12-02 02:01:00,167 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:01:00,174 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:01:00,266 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:01:00,429 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:01:00,487 - logger_file -INFO - user clicked on login button
+2022-12-02 02:01:01,024 - logger_file -INFO - user logged in into account
+2022-12-02 02:01:01,078 - logger_file -INFO - select smart home
+2022-12-02 02:01:01,167 - logger_file -INFO - search some thing
+2022-12-02 02:01:01,221 - logger_file -INFO - click on search
+2022-12-02 02:01:01,595 - logger_file -INFO - item add 
+2022-12-02 02:01:02,282 - logger_file -INFO - item count added
+2022-12-02 02:01:02,338 - logger_file -INFO - item added to cart
+2022-12-02 02:01:02,354 - logger_file -INFO - item added to cart successfully
+2022-12-02 02:01:02,414 - logger_file -INFO - place order
+2022-12-02 02:01:02,486 - logger_file -INFO - click on proceed
+2022-12-02 02:01:02,552 - logger_file -INFO - add Address
+2022-12-02 02:01:03,106 - logger_file -INFO - address information
+2022-12-02 02:01:03,173 - logger_file -INFO - Add a contry
+2022-12-02 02:06:04,754 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:06:04,763 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:06:04,854 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:06:05,029 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:06:05,084 - logger_file -INFO - user clicked on login button
+2022-12-02 02:06:05,546 - logger_file -INFO - user logged in into account
+2022-12-02 02:06:05,599 - logger_file -INFO - select smart home
+2022-12-02 02:06:05,689 - logger_file -INFO - search some thing
+2022-12-02 02:06:05,744 - logger_file -INFO - click on search
+2022-12-02 02:06:06,099 - logger_file -INFO - item add 
+2022-12-02 02:06:06,464 - logger_file -INFO - item count added
+2022-12-02 02:06:06,513 - logger_file -INFO - item added to cart
+2022-12-02 02:06:06,529 - logger_file -INFO - item added to cart successfully
+2022-12-02 02:06:06,593 - logger_file -INFO - place order
+2022-12-02 02:06:06,665 - logger_file -INFO - click on proceed
+2022-12-02 02:06:06,734 - logger_file -INFO - add Address
+2022-12-02 02:06:07,284 - logger_file -INFO - address information
+2022-12-02 02:06:07,353 - logger_file -INFO - Add a contry
+2022-12-02 02:07:52,921 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:07:52,929 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:07:53,021 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:07:53,188 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:07:53,244 - logger_file -INFO - user clicked on login button
+2022-12-02 02:07:53,778 - logger_file -INFO - user logged in into account
+2022-12-02 02:07:53,839 - logger_file -INFO - select smart home
+2022-12-02 02:07:53,931 - logger_file -INFO - search some thing
+2022-12-02 02:07:53,991 - logger_file -INFO - click on search
+2022-12-02 02:07:54,478 - logger_file -INFO - item add 
+2022-12-02 02:07:54,909 - logger_file -INFO - item count added
+2022-12-02 02:07:54,964 - logger_file -INFO - item added to cart
+2022-12-02 02:07:54,984 - logger_file -INFO - item added to cart successfully
+2022-12-02 02:07:55,044 - logger_file -INFO - place order
+2022-12-02 02:07:55,114 - logger_file -INFO - click on proceed
+2022-12-02 02:07:55,181 - logger_file -INFO - add Address
+2022-12-02 02:07:55,727 - logger_file -INFO - address information
+2022-12-02 02:07:55,793 - logger_file -INFO - Add a contry
+2022-12-02 02:15:14,910 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:15:14,918 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:15:15,009 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:15:15,174 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:15:15,230 - logger_file -INFO - user clicked on login button
+2022-12-02 02:15:15,691 - logger_file -INFO - user logged in into account
+2022-12-02 02:15:15,762 - logger_file -INFO - select smart home
+2022-12-02 02:15:15,850 - logger_file -INFO - search some thing
+2022-12-02 02:15:15,906 - logger_file -INFO - click on search
+2022-12-02 02:15:16,338 - logger_file -INFO - item add 
+2022-12-02 02:15:16,666 - logger_file -INFO - item count added
+2022-12-02 02:15:16,721 - logger_file -INFO - item added to cart
+2022-12-02 02:15:16,737 - logger_file -INFO - item added to cart successfully
+2022-12-02 02:15:16,796 - logger_file -INFO - place order
+2022-12-02 02:15:16,867 - logger_file -INFO - click on proceed
+2022-12-02 02:15:16,934 - logger_file -INFO - add Address
+2022-12-02 02:15:17,480 - logger_file -INFO - address information
+2022-12-02 02:15:17,551 - logger_file -INFO - Add a contry
+2022-12-02 02:16:45,703 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:16:45,709 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:16:45,805 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:16:45,971 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:16:46,024 - logger_file -INFO - user clicked on login button
+2022-12-02 02:16:46,506 - logger_file -INFO - user logged in into account
+2022-12-02 02:16:46,562 - logger_file -INFO - select smart home
+2022-12-02 02:16:46,654 - logger_file -INFO - search some thing
+2022-12-02 02:16:46,719 - logger_file -INFO - click on search
+2022-12-02 02:16:47,584 - logger_file -INFO - item add 
+2022-12-02 02:16:48,441 - logger_file -INFO - item count added
+2022-12-02 02:16:48,492 - logger_file -INFO - item added to cart
+2022-12-02 02:16:48,507 - logger_file -INFO - item added to cart successfully
+2022-12-02 02:16:48,567 - logger_file -INFO - place order
+2022-12-02 02:16:48,639 - logger_file -INFO - click on proceed
+2022-12-02 02:16:48,706 - logger_file -INFO - add Address
+2022-12-02 02:16:49,263 - logger_file -INFO - address information
+2022-12-02 02:16:49,332 - logger_file -INFO - Add a contry
+2022-12-02 02:18:44,228 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:18:44,236 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:18:44,330 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:18:44,492 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:18:44,547 - logger_file -INFO - user clicked on login button
+2022-12-02 02:18:45,131 - logger_file -INFO - user logged in into account
+2022-12-02 02:18:45,193 - logger_file -INFO - select smart home
+2022-12-02 02:18:45,290 - logger_file -INFO - search some thing
+2022-12-02 02:18:45,344 - logger_file -INFO - click on search
+2022-12-02 02:18:46,029 - logger_file -INFO - item add 
+2022-12-02 02:18:47,005 - logger_file -INFO - item count added
+2022-12-02 02:18:47,056 - logger_file -INFO - item added to cart
+2022-12-02 02:18:47,073 - logger_file -INFO - item added to cart successfully
+2022-12-02 02:18:47,135 - logger_file -INFO - place order
+2022-12-02 02:18:47,208 - logger_file -INFO - click on proceed
+2022-12-02 02:18:47,279 - logger_file -INFO - add Address
+2022-12-02 02:18:47,861 - logger_file -INFO - address information
+2022-12-02 02:18:47,931 - logger_file -INFO - Add a contry
+2022-12-02 02:20:34,398 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:20:34,405 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:20:34,502 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:20:34,675 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:20:34,729 - logger_file -INFO - user clicked on login button
+2022-12-02 02:20:35,686 - logger_file -INFO - user logged in into account
+2022-12-02 02:20:35,743 - logger_file -INFO - select smart home
+2022-12-02 02:20:35,847 - logger_file -INFO - search some thing
+2022-12-02 02:20:35,898 - logger_file -INFO - click on search
+2022-12-02 02:20:36,577 - logger_file -INFO - item add 
+2022-12-02 02:20:37,260 - logger_file -INFO - item count added
+2022-12-02 02:20:37,312 - logger_file -INFO - item added to cart
+2022-12-02 02:20:37,328 - logger_file -INFO - item added to cart successfully
+2022-12-02 02:20:37,389 - logger_file -INFO - place order
+2022-12-02 02:20:37,456 - logger_file -INFO - click on proceed
+2022-12-02 02:20:37,528 - logger_file -INFO - add Address
+2022-12-02 02:20:38,070 - logger_file -INFO - address information
+2022-12-02 02:20:38,139 - logger_file -INFO - Add a contry
+2022-12-02 02:23:13,916 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:23:13,923 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:23:14,018 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:23:14,193 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:23:14,248 - logger_file -INFO - user clicked on login button
+2022-12-02 02:23:14,971 - logger_file -INFO - user logged in into account
+2022-12-02 02:23:15,027 - logger_file -INFO - select smart home
+2022-12-02 02:23:15,132 - logger_file -INFO - search some thing
+2022-12-02 02:23:15,187 - logger_file -INFO - click on search
+2022-12-02 02:23:16,181 - logger_file -INFO - item add 
+2022-12-02 02:23:16,616 - logger_file -INFO - item count added
+2022-12-02 02:23:16,669 - logger_file -INFO - item added to cart
+2022-12-02 02:23:16,684 - logger_file -INFO - item added to cart successfully
+2022-12-02 02:23:16,745 - logger_file -INFO - place order
+2022-12-02 02:23:16,813 - logger_file -INFO - click on proceed
+2022-12-02 02:23:16,879 - logger_file -INFO - add Address
+2022-12-02 02:23:17,435 - logger_file -INFO - address information
+2022-12-02 02:23:17,505 - logger_file -INFO - Add a contry
+2022-12-02 02:24:52,186 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:24:52,193 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:24:52,292 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:24:52,462 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:24:52,518 - logger_file -INFO - user clicked on login button
+2022-12-02 02:24:53,084 - logger_file -INFO - user logged in into account
+2022-12-02 02:24:53,147 - logger_file -INFO - select smart home
+2022-12-02 02:24:53,218 - logger_file -INFO - search some thing
+2022-12-02 02:24:53,272 - logger_file -INFO - click on search
+2022-12-02 02:24:53,688 - logger_file -INFO - secound item added
+2022-12-02 02:24:54,365 - logger_file -INFO - item count added
+2022-12-02 02:24:54,420 - logger_file -INFO - item added to cart
+2022-12-02 02:24:54,436 - logger_file -INFO - item added to cart successfully
+2022-12-02 02:24:54,508 - logger_file -INFO - place order
+2022-12-02 02:24:54,578 - logger_file -INFO - click on proceed
+2022-12-02 02:28:06,975 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:28:06,983 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:28:07,077 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:28:07,249 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:28:07,303 - logger_file -INFO - user clicked on login button
+2022-12-02 02:28:08,064 - logger_file -INFO - user logged in into account
+2022-12-02 02:28:08,119 - logger_file -INFO - select smart home
+2022-12-02 02:28:08,194 - logger_file -INFO - search some thing
+2022-12-02 02:28:08,250 - logger_file -INFO - click on search
+2022-12-02 02:28:08,613 - logger_file -INFO - secound item added
+2022-12-02 02:28:09,056 - logger_file -INFO - item count added
+2022-12-02 02:28:09,109 - logger_file -INFO - item added to cart
+2022-12-02 02:28:09,125 - logger_file -INFO - item added to cart successfully
+2022-12-02 02:28:09,186 - logger_file -INFO - place order
+2022-12-02 02:28:09,255 - logger_file -INFO - click on proceed
+2022-12-02 02:34:07,068 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:34:07,076 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:34:07,169 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:34:07,347 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:34:07,402 - logger_file -INFO - user clicked on login button
+2022-12-02 02:34:07,913 - logger_file -INFO - user logged in into account
+2022-12-02 02:34:07,968 - logger_file -INFO - select smart home
+2022-12-02 02:34:08,045 - logger_file -INFO - search some thing
+2022-12-02 02:34:08,102 - logger_file -INFO - click on search
+2022-12-02 02:34:08,401 - logger_file -INFO - secound item added
+2022-12-02 02:34:08,764 - logger_file -INFO - item count added
+2022-12-02 02:34:08,822 - logger_file -INFO - item added to cart
+2022-12-02 02:34:08,840 - logger_file -INFO - item added to cart successfully
+2022-12-02 02:34:08,903 - logger_file -INFO - place order
+2022-12-02 02:34:08,978 - logger_file -INFO - click on proceed
+2022-12-02 02:35:22,370 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:35:22,378 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:35:22,471 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:35:22,646 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:35:22,702 - logger_file -INFO - user clicked on login button
+2022-12-02 02:35:23,220 - logger_file -INFO - user logged in into account
+2022-12-02 02:35:23,285 - logger_file -INFO - select smart home
+2022-12-02 02:35:23,385 - logger_file -INFO - search some thing
+2022-12-02 02:35:23,444 - logger_file -INFO - click on search
+2022-12-02 02:35:23,989 - logger_file -INFO - item add 
+2022-12-02 02:35:24,550 - logger_file -INFO - item count added
+2022-12-02 02:35:24,603 - logger_file -INFO - item added to cart
+2022-12-02 02:35:24,620 - logger_file -INFO - item added to cart successfully
+2022-12-02 02:35:24,680 - logger_file -INFO - place order
+2022-12-02 02:35:24,751 - logger_file -INFO - click on proceed
+2022-12-02 02:35:24,817 - logger_file -INFO - add Address
+2022-12-02 02:35:25,385 - logger_file -INFO - address information
+2022-12-02 02:35:25,461 - logger_file -INFO - Add a contry
+2022-12-02 02:36:33,934 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:36:33,942 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:36:34,039 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:36:34,216 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:36:34,269 - logger_file -INFO - user clicked on login button
+2022-12-02 02:36:34,777 - logger_file -INFO - user logged in into account
+2022-12-02 02:36:34,832 - logger_file -INFO - select smart home
+2022-12-02 02:36:34,918 - logger_file -INFO - search some thing
+2022-12-02 02:36:34,973 - logger_file -INFO - click on search
+2022-12-02 02:36:35,401 - logger_file -INFO - item add 
+2022-12-02 02:36:35,887 - logger_file -INFO - item count added
+2022-12-02 02:36:35,940 - logger_file -INFO - item added to cart
+2022-12-02 02:36:35,959 - logger_file -INFO - item added to cart successfully
+2022-12-02 02:36:36,022 - logger_file -INFO - place order
+2022-12-02 02:36:36,093 - logger_file -INFO - click on proceed
+2022-12-02 02:36:36,159 - logger_file -INFO - add Address
+2022-12-02 02:36:36,731 - logger_file -INFO - address information
+2022-12-02 02:36:36,798 - logger_file -INFO - Add a contry
+2022-12-02 02:37:36,887 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:37:36,895 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:37:36,985 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:37:37,163 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:37:37,219 - logger_file -INFO - user clicked on login button
+2022-12-02 02:37:37,995 - logger_file -INFO - user logged in into account
+2022-12-02 02:37:38,050 - logger_file -INFO - select smart home
+2022-12-02 02:37:38,143 - logger_file -INFO - search some thing
+2022-12-02 02:37:38,197 - logger_file -INFO - click on search
+2022-12-02 02:37:39,179 - logger_file -INFO - item add 
+2022-12-02 02:37:39,675 - logger_file -INFO - item count added
+2022-12-02 02:37:39,723 - logger_file -INFO - item added to cart
+2022-12-02 02:37:39,739 - logger_file -INFO - item added to cart successfully
+2022-12-02 02:37:39,801 - logger_file -INFO - place order
+2022-12-02 02:37:39,878 - logger_file -INFO - click on proceed
+2022-12-02 02:37:39,944 - logger_file -INFO - add Address
+2022-12-02 02:37:40,501 - logger_file -INFO - address information
+2022-12-02 02:37:40,569 - logger_file -INFO - Add a contry
+2022-12-02 02:42:15,483 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:42:15,580 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:42:15,761 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:42:15,823 - logger_file -INFO - user clicked on login button
+2022-12-02 02:42:16,405 - logger_file -INFO - user logged in into account
+2022-12-02 02:42:16,474 - logger_file -INFO - click on order
+2022-12-02 02:42:21,549 - logger_file -INFO - click on cancel
+2022-12-02 02:42:21,632 - logger_file -INFO - choose the resone
+2022-12-02 02:42:21,694 - logger_file -INFO - ordercancelled
+2022-12-02 02:42:21,712 - logger_file -INFO - order canceled successfully
+2022-12-02 02:43:08,742 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:43:08,837 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:43:09,013 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:43:09,079 - logger_file -INFO - user clicked on login button
+2022-12-02 02:43:09,586 - logger_file -INFO - user logged in into account
+2022-12-02 02:43:09,657 - logger_file -INFO - click on order
+2022-12-02 02:43:14,759 - logger_file -INFO - click on return 
+2022-12-02 02:43:19,832 - logger_file -INFO -  Choose return resone
+2022-12-02 02:43:19,885 - logger_file -INFO - choose drop of location
+2022-12-02 02:43:19,938 - logger_file -INFO - item returned
+2022-12-02 02:44:20,900 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:44:20,999 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:44:21,173 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:44:21,234 - logger_file -INFO - user clicked on login button
+2022-12-02 02:44:21,810 - logger_file -INFO - user logged in into account
+2022-12-02 02:44:21,878 - logger_file -INFO - click on order
+2022-12-02 02:44:26,958 - logger_file -INFO - click on return 
+2022-12-02 02:44:32,045 - logger_file -INFO -  Choose return resone
+2022-12-02 02:44:32,100 - logger_file -INFO - choose drop of location
+2022-12-02 02:44:32,156 - logger_file -INFO - item returned
+2022-12-02 02:47:27,190 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:47:27,285 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:47:27,466 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:47:27,528 - logger_file -INFO - user clicked on login button
+2022-12-02 02:47:28,052 - logger_file -INFO - user logged in into account
+2022-12-02 02:47:28,121 - logger_file -INFO - click on order
+2022-12-02 02:50:13,117 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:50:13,219 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:50:13,394 - logger_file -INFO - user entered email StudentTEK@gmail.com and password Tekschool@123
+2022-12-02 02:50:13,453 - logger_file -INFO - user clicked on login button
+2022-12-02 02:50:14,291 - logger_file -INFO - user logged in into account
+2022-12-02 02:50:14,359 - logger_file -INFO - click on order
+2022-12-02 02:58:37,725 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:58:37,822 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:58:38,014 - logger_file -INFO - user entered email SudabaTekSchool@gmail.com and password Tekschool@123
+2022-12-02 02:58:38,079 - logger_file -INFO - user clicked on login button
+2022-12-02 02:58:38,596 - logger_file -INFO - user logged in into account
+2022-12-02 02:59:15,494 - logger_file -INFO - React App is equal to React App
+2022-12-02 02:59:15,585 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 02:59:15,651 - logger_file -INFO - user clicked on Create New Account button
+2022-12-02 02:59:15,952 - logger_file -INFO - user entered required information into sign up form
+2022-12-02 02:59:16,006 - logger_file -INFO - user clicked on Sign up Button
+2022-12-02 02:59:16,520 - logger_file -INFO - Account was created
+2022-12-02 03:01:00,837 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:01:00,931 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 03:01:01,111 - logger_file -INFO - user entered email SudabaTekSchool@gmail.com and password Tekschool@123
+2022-12-02 03:01:01,175 - logger_file -INFO - user clicked on login button
+2022-12-02 03:01:01,745 - logger_file -INFO - user logged in into account
+2022-12-02 03:01:01,826 - logger_file -INFO - user click on account option
+2022-12-02 03:01:07,059 - logger_file -INFO - user update name Sudabaand phone916 777 444
+2022-12-02 03:01:12,129 - logger_file -INFO - user click on update button
+2022-12-02 03:01:12,145 - logger_file -INFO - user profile information is update
+2022-12-02 03:01:40,471 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:01:40,570 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 03:01:40,759 - logger_file -INFO - user entered email SudabaTekSchool@gmail.com and password Tekschool@123
+2022-12-02 03:01:40,821 - logger_file -INFO - user clicked on login button
+2022-12-02 03:01:41,207 - logger_file -INFO - user logged in into account
+2022-12-02 03:01:41,289 - logger_file -INFO - user click on account option
+2022-12-02 03:01:46,370 - logger_file -INFO - user click on add payment
+2022-12-02 03:01:46,745 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-02 03:01:46,802 - logger_file -INFO - user submit the cart information
+2022-12-02 03:01:47,691 - logger_file -INFO - Payment Method added sucessfully
+2022-12-02 03:03:03,892 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:03:03,996 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 03:03:04,177 - logger_file -INFO - user entered email SudabaTekSchool@gmail.com and password Tekschool@123
+2022-12-02 03:03:04,241 - logger_file -INFO - user clicked on login button
+2022-12-02 03:03:04,818 - logger_file -INFO - user logged in into account
+2022-12-02 03:03:04,900 - logger_file -INFO - user click on account option
+2022-12-02 03:03:10,043 - logger_file -INFO - user click on add payment
+2022-12-02 03:03:10,502 - logger_file -INFO - userDebitOrCreditCardInformation
+2022-12-02 03:03:10,558 - logger_file -INFO - user submit the cart information
+2022-12-02 03:03:11,499 - logger_file -INFO - Message was displayed successfully
+2022-12-02 03:03:38,765 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:03:38,857 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 03:03:39,036 - logger_file -INFO - user entered email SudabaTekSchool@gmail.com and password Tekschool@123
+2022-12-02 03:03:39,097 - logger_file -INFO - user clicked on login button
+2022-12-02 03:03:39,647 - logger_file -INFO - user logged in into account
+2022-12-02 03:03:39,735 - logger_file -INFO - user click on account option
+2022-12-02 03:03:44,828 - logger_file -INFO - Add an Address
+2022-12-02 03:03:45,396 - logger_file -INFO - address information
+2022-12-02 03:03:45,473 - logger_file -INFO - Add a contry
+2022-12-02 03:03:46,419 - logger_file -INFO - the message was displayed
+2022-12-02 03:04:17,236 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:04:17,330 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 03:04:17,508 - logger_file -INFO - user entered email SudabaTekSchool@gmail.com and password Tekschool@123
+2022-12-02 03:04:17,573 - logger_file -INFO - user clicked on login button
+2022-12-02 03:04:18,016 - logger_file -INFO - user logged in into account
+2022-12-02 03:04:18,098 - logger_file -INFO - user click on account option
+2022-12-02 03:04:23,194 - logger_file -INFO - Edit Address
+2022-12-02 03:04:24,120 - logger_file -INFO - address information
+2022-12-02 03:04:29,159 - logger_file -INFO - the shoud be showing
+2022-12-02 03:05:02,426 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:05:02,503 - logger_file -INFO - click on all section
+2022-12-02 03:05:07,539 - logger_file -INFO - options Electronics, Computers, Smart Home, Sports and Automative are present
+2022-12-02 03:05:47,604 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:05:47,683 - logger_file -INFO - click on all section
+2022-12-02 03:05:52,722 - logger_file -INFO - user is on Electronics section
+2022-12-02 03:05:52,777 - logger_file -INFO - Video Games options are present in departmentTV & Video
+2022-12-02 03:05:54,907 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:05:54,982 - logger_file -INFO - click on all section
+2022-12-02 03:06:00,021 - logger_file -INFO - user is on Computers section
+2022-12-02 03:06:00,070 - logger_file -INFO - Accessories options are present in departmentNetworking
+2022-12-02 03:06:02,213 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:06:02,277 - logger_file -INFO - click on all section
+2022-12-02 03:06:09,506 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:06:09,570 - logger_file -INFO - click on all section
+2022-12-02 03:06:14,602 - logger_file -INFO - user is on Sports section
+2022-12-02 03:06:14,651 - logger_file -INFO - Athletic Clothing options are present in departmentExercise & Fitness
+2022-12-02 03:06:16,672 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:06:16,742 - logger_file -INFO - click on all section
+2022-12-02 03:06:21,769 - logger_file -INFO - user is on Automotive section
+2022-12-02 03:06:21,829 - logger_file -INFO - MotorCycle & Powersports options are present in departmentAutomative Parts & Accessories
+2022-12-02 03:07:18,511 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:07:18,609 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 03:07:18,787 - logger_file -INFO - user entered email SudabaTekSchool@gmail.com and password Tekschool@123
+2022-12-02 03:07:18,851 - logger_file -INFO - user clicked on login button
+2022-12-02 03:07:19,377 - logger_file -INFO - user logged in into account
+2022-12-02 03:07:19,432 - logger_file -INFO - select smart home
+2022-12-02 03:07:19,520 - logger_file -INFO - search some thing
+2022-12-02 03:07:19,577 - logger_file -INFO - click on search
+2022-12-02 03:07:19,877 - logger_file -INFO - item add 
+2022-12-02 03:08:02,680 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:08:02,782 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 03:08:02,964 - logger_file -INFO - user entered email SudabaTekSchool@gmail.com and password Tekschool@123
+2022-12-02 03:08:03,026 - logger_file -INFO - user clicked on login button
+2022-12-02 03:08:03,474 - logger_file -INFO - user logged in into account
+2022-12-02 03:08:03,532 - logger_file -INFO - select smart home
+2022-12-02 03:08:03,624 - logger_file -INFO - search some thing
+2022-12-02 03:08:03,678 - logger_file -INFO - click on search
+2022-12-02 03:08:03,980 - logger_file -INFO - item add 
+2022-12-02 03:08:04,463 - logger_file -INFO - item count added
+2022-12-02 03:08:04,514 - logger_file -INFO - item added to cart
+2022-12-02 03:08:05,049 - logger_file -INFO - item added to cart successfully
+2022-12-02 03:08:30,626 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:08:30,634 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:08:30,725 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 03:08:30,907 - logger_file -INFO - user entered email SudabaTekSchool@gmail.com and password Tekschool@123
+2022-12-02 03:08:30,965 - logger_file -INFO - user clicked on login button
+2022-12-02 03:08:31,362 - logger_file -INFO - user logged in into account
+2022-12-02 03:08:31,418 - logger_file -INFO - select smart home
+2022-12-02 03:08:31,519 - logger_file -INFO - search some thing
+2022-12-02 03:08:31,578 - logger_file -INFO - click on search
+2022-12-02 03:08:31,938 - logger_file -INFO - item add 
+2022-12-02 03:08:32,301 - logger_file -INFO - item count added
+2022-12-02 03:08:32,357 - logger_file -INFO - item added to cart
+2022-12-02 03:08:32,373 - logger_file -INFO - item added to cart successfully
+2022-12-02 03:08:32,433 - logger_file -INFO - place order
+2022-12-02 03:08:32,506 - logger_file -INFO - click on proceed
+2022-12-02 03:08:32,575 - logger_file -INFO - add Address
+2022-12-02 03:08:33,133 - logger_file -INFO - address information
+2022-12-02 03:08:33,200 - logger_file -INFO - Add a contry
+2022-12-02 03:11:14,468 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:11:14,567 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 03:11:14,757 - logger_file -INFO - user entered email SudabaTekSchool@gmail.com and password Tekschool@123
+2022-12-02 03:11:14,825 - logger_file -INFO - user clicked on login button
+2022-12-02 03:11:15,333 - logger_file -INFO - user logged in into account
+2022-12-02 03:11:15,421 - logger_file -INFO - user click on account option
+2022-12-02 03:11:20,557 - logger_file -INFO - user removed the payment
+2022-12-02 03:12:59,395 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:12:59,495 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 03:12:59,679 - logger_file -INFO - user entered email SudabaTekSchool@gmail.com and password Tekschool@123
+2022-12-02 03:12:59,743 - logger_file -INFO - user clicked on login button
+2022-12-02 03:13:00,256 - logger_file -INFO - user logged in into account
+2022-12-02 03:13:00,340 - logger_file -INFO - user click on account option
+2022-12-02 03:13:05,401 - logger_file -INFO - remove the address successfully
+2022-12-02 03:13:05,416 - logger_file -INFO - Address Removed
+2022-12-02 03:17:23,289 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:17:23,384 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 03:17:23,573 - logger_file -INFO - user entered email SudabaTekSchool@gmail.com and password Tekschool@123
+2022-12-02 03:17:23,633 - logger_file -INFO - user clicked on login button
+2022-12-02 03:17:24,089 - logger_file -INFO - user logged in into account
+2022-12-02 03:17:24,159 - logger_file -INFO - click on order
+2022-12-02 03:17:29,235 - logger_file -INFO - click on cancel
+2022-12-02 03:17:29,307 - logger_file -INFO - choose the resone
+2022-12-02 03:17:29,365 - logger_file -INFO - ordercancelled
+2022-12-02 03:17:29,379 - logger_file -INFO - order canceled successfully
+2022-12-02 03:17:54,400 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:17:54,501 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 03:17:54,689 - logger_file -INFO - user entered email SudabaTekSchool@gmail.com and password Tekschool@123
+2022-12-02 03:17:54,752 - logger_file -INFO - user clicked on login button
+2022-12-02 03:17:55,150 - logger_file -INFO - user logged in into account
+2022-12-02 03:17:55,218 - logger_file -INFO - click on order
+2022-12-02 03:18:00,307 - logger_file -INFO - click on return 
+2022-12-02 03:18:05,384 - logger_file -INFO -  Choose return resone
+2022-12-02 03:18:05,442 - logger_file -INFO - choose drop of location
+2022-12-02 03:18:05,500 - logger_file -INFO - item returned
+2022-12-02 03:18:05,933 - logger_file -INFO - the message was displayed
+2022-12-02 03:18:31,507 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:18:31,606 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 03:18:31,794 - logger_file -INFO - user entered email SudabaTekSchool@gmail.com and password Tekschool@123
+2022-12-02 03:18:31,856 - logger_file -INFO - user clicked on login button
+2022-12-02 03:18:32,307 - logger_file -INFO - user logged in into account
+2022-12-02 03:18:32,380 - logger_file -INFO - click on order
+2022-12-02 03:18:57,370 - logger_file -INFO - add Review
+2022-12-02 03:18:57,533 - logger_file -INFO - user review the order
+2022-12-02 03:18:57,594 - logger_file -INFO - click on add review
+2022-12-02 03:18:57,626 - logger_file -INFO - review the order
+2022-12-02 03:20:13,291 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:20:13,298 - logger_file -INFO - React App is equal to React App
+2022-12-02 03:20:13,396 - logger_file -INFO - user clicked on Sign In option
+2022-12-02 03:20:13,576 - logger_file -INFO - user entered email SudabaTekSchool@gmail.com and password Tekschool@123
+2022-12-02 03:20:13,638 - logger_file -INFO - user clicked on login button
+2022-12-02 03:20:14,331 - logger_file -INFO - user logged in into account
+2022-12-02 03:20:14,391 - logger_file -INFO - select smart home
+2022-12-02 03:20:14,488 - logger_file -INFO - search some thing
+2022-12-02 03:20:14,541 - logger_file -INFO - click on search
+2022-12-02 03:20:14,975 - logger_file -INFO - item add 
+2022-12-02 03:20:15,424 - logger_file -INFO - item count added
+2022-12-02 03:20:15,479 - logger_file -INFO - item added to cart
+2022-12-02 03:20:15,496 - logger_file -INFO - item added to cart successfully
+2022-12-02 03:20:15,556 - logger_file -INFO - place order
+2022-12-02 03:20:15,625 - logger_file -INFO - click on proceed
+2022-12-02 03:20:15,695 - logger_file -INFO - add Address
+2022-12-02 03:20:16,243 - logger_file -INFO - address information
+2022-12-02 03:20:16,312 - logger_file -INFO - Add a contry
